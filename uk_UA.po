@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: LearnDash LMS 3.2.3.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-core\n"
 "POT-Creation-Date: 2020-10-07T20:17:36+00:00\n"
-"PO-Revision-Date: 2021-01-13 20:04+0200\n"
+"PO-Revision-Date: 2021-01-14 16:35+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -22,23 +22,25 @@ msgstr ""
 #: includes/admin/class-learndash-admin-menus-tabs.php:402
 #: includes/settings/settings-sections/class-ld-settings-section-translations-learndash.php:38
 msgid "LearnDash LMS"
-msgstr ""
+msgstr "LearnDash LMS"
 
 #. Plugin URI of the plugin
 #. Author URI of the plugin
 msgid "http://www.learndash.com"
-msgstr ""
+msgstr "http://www.learndash.com"
 
 #. Description of the plugin
 msgid ""
 "LearnDash LMS Plugin - Turn your WordPress site into a learning management "
 "system."
 msgstr ""
+"LearnDash LMS Plugin - перетворіть Ваш сайт WordPress в систему управління "
+"навчанням."
 
 #. Author of the plugin
 #: includes/admin/class-learndash-admin-addons-list-table.php:55
 msgid "LearnDash"
-msgstr ""
+msgstr "LearnDash"
 
 #: docs/examples/hooks/action/learndash_course_completed.php:37
 #: includes/class-ld-lms.php:116 includes/course/ld-course-progress.php:1432
@@ -53,155 +55,155 @@ msgstr ""
 #: includes/gutenberg/blocks/ld-course-list/index.js:301
 #: includes/gutenberg/blocks/ld-group-list/index.js:301
 msgid "Completed"
-msgstr ""
+msgstr "Завершено"
 
 #. translators: placeholder: Course.
 #: docs/examples/hooks/filter/learndash_settings_fields.php:24
 msgctxt "placeholder: Course"
 msgid "%s Field Label"
-msgstr ""
+msgstr "%s Field Label"
 
 #. translators: placeholder: course.
 #: docs/examples/hooks/filter/learndash_settings_fields.php:34
 msgctxt "placeholder: course."
 msgid "Some help text for %s."
-msgstr ""
+msgstr "Деякий текст довідки для %s."
 
 #: includes/admin/class-learndash-admin-addons-list-table.php:59
 msgid "Third Party"
-msgstr ""
+msgstr "Сторонні розробники"
 
 #. translators: placeholder: Human relative date time.
 #: includes/admin/class-learndash-admin-addons-list-table.php:377
 msgctxt "placeholder: human relative date time"
 msgid "%s ago"
-msgstr ""
+msgstr "%s тому назад"
 
 #: includes/admin/class-learndash-admin-addons-list-table.php:481
 msgid "Check Updates"
-msgstr ""
+msgstr "Перевірити оновлення"
 
 #: includes/admin/class-learndash-admin-binary-selector.php:104
 #: includes/admin/class-learndash-admin-binary-selector.php:105
 msgid "Search:"
-msgstr ""
+msgstr "Пошук:"
 
 #: includes/admin/class-learndash-admin-binary-selector.php:320
 msgid "&lsaquo; prev"
-msgstr ""
+msgstr "&lsaquo; попередній"
 
 #. translators: placeholder: Page X of Y.
 #: includes/admin/class-learndash-admin-binary-selector.php:325
 msgctxt "placeholder: Page X of Y"
 msgid "Page %1$s of %2$s"
-msgstr ""
+msgstr "Сторінка %1$s з %2$s"
 
 #: includes/admin/class-learndash-admin-binary-selector.php:331
 msgid "next  &rsaquo;"
-msgstr ""
+msgstr "наступний  &rsaquo;"
 
 #: includes/admin/class-learndash-admin-binary-selector.php:348
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:938
 #: themes/ld30/templates/shortcodes/profile.php:164
 #: themes/ld30/templates/shortcodes/profile/search.php:78
 msgid "Search"
-msgstr ""
+msgstr "Пошук"
 
 #. translators: placeholder: Course.
 #: includes/admin/class-learndash-admin-binary-selector.php:731
 msgctxt "Course Users Label"
 msgid "%s Users"
-msgstr ""
+msgstr "%s користувачів"
 
 #. translators: placeholder: Course.
 #: includes/admin/class-learndash-admin-binary-selector.php:734
 msgctxt "Course Users label"
 msgid "%s Users"
-msgstr ""
+msgstr "%s користувачів"
 
 #. translators: placeholder: Course.
 #: includes/admin/class-learndash-admin-binary-selector.php:740
 msgctxt "Search All Course Users"
 msgid "Search All %s Users"
-msgstr ""
+msgstr "Знайти усіх користувачів %s"
 
 #. translators: placeholder: Course.
 #: includes/admin/class-learndash-admin-binary-selector.php:745
 msgctxt "Search Assigned Course Users"
 msgid "Search Assigned %s Users"
-msgstr ""
+msgstr "Знайти призначених користувачів %s"
 
 #. translators: placeholder: Group.
 #: includes/admin/class-learndash-admin-binary-selector.php:778
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-group-users.php:28
 msgctxt "placeholder: Group"
 msgid "%s Users"
-msgstr ""
+msgstr "%s користувачів"
 
 #. translators: placeholder: Group.
 #: includes/admin/class-learndash-admin-binary-selector.php:786
 msgctxt "placeholder: Group"
 msgid "Search All %s Users"
-msgstr ""
+msgstr "Знайти усіх користувачів %s"
 
 #. translators: placeholder: Group.
 #: includes/admin/class-learndash-admin-binary-selector.php:791
 msgctxt "placeholder: Group"
 msgid "Search Assigned %s Users"
-msgstr ""
+msgstr "Знайти призначених користувачів %s"
 
 #. translators: placeholder: Group.
 #: includes/admin/class-learndash-admin-binary-selector.php:824
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-group-leaders.php:28
 msgctxt "placeholder: Group"
 msgid "%s Leaders"
-msgstr ""
+msgstr "%s лідерів"
 
 #. translators: placeholder: Group.
 #: includes/admin/class-learndash-admin-binary-selector.php:832
 msgctxt "placeholder: Group"
 msgid "Search All %s Leaders"
-msgstr ""
+msgstr "Знайти усіх лідерів %s"
 
 #. translators: placeholder: Group.
 #: includes/admin/class-learndash-admin-binary-selector.php:837
 msgctxt "placeholder: Group"
 msgid "Search Assigned %s Leaders"
-msgstr ""
+msgstr "Знайти призначених лідерів %s"
 
 #. translators: placeholders: Group, Courses.
 #: includes/admin/class-learndash-admin-binary-selector.php:1112
 #: themes/ld30/templates/group.php:158
 msgctxt "placeholders: Group, Courses"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: placeholders: Group, Courses.
 #: includes/admin/class-learndash-admin-binary-selector.php:1121
 #: includes/admin/class-learndash-admin-binary-selector.php:1172
 msgctxt "placeholders: Group, Courses"
 msgid "Search All %1$s %2$s"
-msgstr ""
+msgstr "Знайти усі %1$s %2$s"
 
 #. translators: placeholders: Group, Courses.
 #: includes/admin/class-learndash-admin-binary-selector.php:1127
 #: includes/admin/class-learndash-admin-binary-selector.php:1178
 msgctxt "placeholders: Group, Courses"
 msgid "Search Assigned %1$s %2$s"
-msgstr ""
+msgstr "Знайти призначені %1$s %2$s"
 
 #. translators: placeholder: Group, Courses.
 #: includes/admin/class-learndash-admin-binary-selector.php:1163
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-group-courses-enroll.php:28
 msgctxt "placeholder: Group, Courses"
 msgid "%1$s %2$s Auto-enroll"
-msgstr ""
+msgstr "%1$s %2$s автоматично зареєстровано"
 
 #. translators: placeholders: Groups, Course.
 #: includes/admin/class-learndash-admin-binary-selector.php:1213
 msgctxt "placeholders: Groups, Course"
 msgid "%1$s Using %2$s"
-msgstr ""
+msgstr "%1$s використовують %2$s"
 
 #. translators: Groups.
 #: includes/admin/class-learndash-admin-binary-selector.php:1222
@@ -209,55 +211,55 @@ msgstr ""
 #: includes/admin/class-learndash-admin-binary-selector.php:1364
 msgctxt "placeholder: Groups"
 msgid "Search All %s"
-msgstr ""
+msgstr "Знайти усі %s"
 
 #. translators: placeholders: Course, Groups.
 #: includes/admin/class-learndash-admin-binary-selector.php:1227
 msgctxt "placeholders: Course, Groups"
 msgid "Search %1$s %2$s"
-msgstr ""
+msgstr "Знайти %1$s %2$s"
 
 #. translators: placeholder: Courses.
 #: includes/admin/class-learndash-admin-binary-selector.php:1262
 msgctxt "User Enrolled in Courses Label"
 msgid "User Enrolled in %s"
-msgstr ""
+msgstr "Користувач зареєстрований в %s"
 
 #. translators: placeholder: Courses.
 #: includes/admin/class-learndash-admin-binary-selector.php:1270
 msgctxt "Search All Courses Label"
 msgid "Search All %s"
-msgstr ""
+msgstr "Знайти всі %s"
 
 #. translators: placeholder: Courses.
 #: includes/admin/class-learndash-admin-binary-selector.php:1275
 msgctxt "Search Enrolled Courses Label"
 msgid "Search Enrolled %s"
-msgstr ""
+msgstr "Знайти зареєстрованих %s"
 
 #. translators: placeholder: Group.
 #: includes/admin/class-learndash-admin-binary-selector.php:1309
 msgctxt "placeholder: Group"
 msgid "User Enrolled in %s"
-msgstr ""
+msgstr "Користувач зареєстрований в %s"
 
 #. translators: Groups.
 #: includes/admin/class-learndash-admin-binary-selector.php:1322
 msgctxt "placeholder: Groups"
 msgid "Search Enrolled %s"
-msgstr ""
+msgstr "Знайти зареєстрованих %s"
 
 #. translators: Groups.
 #: includes/admin/class-learndash-admin-binary-selector.php:1356
 msgctxt "placeholder: Groups"
 msgid "Leader of %s"
-msgstr ""
+msgstr "Лідер %s"
 
 #. translators: Groups.
 #: includes/admin/class-learndash-admin-binary-selector.php:1369
 msgctxt "placeholder: Groups"
 msgid "Search Leader %s"
-msgstr ""
+msgstr "Знайти лідера %s"
 
 #: includes/admin/class-learndash-admin-builder.php:171
 #: includes/admin/class-learndash-admin-builder.php:202
@@ -273,7 +275,7 @@ msgstr ""
 #: themes/legacy/templates/course_content_shortcode.php:52
 #: themes/legacy/templates/profile.php:37
 msgid "Expand All"
-msgstr ""
+msgstr "Розгорнути все"
 
 #: includes/admin/class-learndash-admin-builder.php:173
 #: includes/admin/class-learndash-admin-builder.php:204
@@ -285,7 +287,7 @@ msgstr ""
 #: themes/legacy/templates/course_content_shortcode.php:52
 #: themes/legacy/templates/profile.php:37
 msgid "Collapse All"
-msgstr ""
+msgstr "Згорнути все"
 
 #. translators: 'placeholders: will be post type labels like Course, Lesson, Topic'.
 #: includes/admin/class-learndash-admin-builder.php:234
@@ -295,13 +297,15 @@ msgid ""
 "Are you sure you want to remove this %1$s from the %2$s? (This will also "
 "remove all sub-items)"
 msgstr ""
+"Ви впевнені, що хочете видалити цей %1$s із %2$s? (Це також призведе до "
+"видалення всіх підпунктів)"
 
 #. translators: placeholder: will be post type label like Course, Lesson, Topic.
 #: includes/admin/class-learndash-admin-builder.php:241
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:190
 msgctxt "placeholder: will be post type label like Course, Lesson, Topic"
 msgid "Are you sure you want to move this %s to Trash?"
-msgstr ""
+msgstr "Ви впевнені, що хочете перемістити цей %s у кошик?"
 
 #: includes/admin/class-learndash-admin-builder.php:257
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:596
@@ -309,22 +313,22 @@ msgstr ""
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:692
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:720
 msgid "Expand/Collape Section"
-msgstr ""
+msgstr "Розгорнути/Згорнути розділ"
 
 #: includes/admin/class-learndash-admin-builder.php:257
 msgid "New"
-msgstr ""
+msgstr "Новий"
 
 #: includes/admin/class-learndash-admin-builder.php:272
 msgid "Search..."
-msgstr ""
+msgstr "Пошук..."
 
 #: includes/admin/class-learndash-admin-builder.php:323
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:410
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:351
 #: themes/legacy/templates/learndash_pager.php:87
 msgid "First Page"
-msgstr ""
+msgstr "Перша сторінка"
 
 #: includes/admin/class-learndash-admin-builder.php:324
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:411
@@ -332,7 +336,7 @@ msgstr ""
 #: themes/ld30/templates/modules/pagination.php:127
 #: themes/legacy/templates/learndash_pager.php:90
 msgid "Previous Page"
-msgstr ""
+msgstr "Попередня сторінка"
 
 #: includes/admin/class-learndash-admin-builder.php:326
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:413
@@ -340,14 +344,14 @@ msgstr ""
 #: themes/ld30/templates/modules/pagination.php:147
 #: themes/legacy/templates/learndash_pager.php:95
 msgid "Next Page"
-msgstr ""
+msgstr "Наступна сторінка"
 
 #: includes/admin/class-learndash-admin-builder.php:327
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:414
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:355
 #: themes/legacy/templates/learndash_pager.php:99
 msgid "Last Page"
-msgstr ""
+msgstr "Остання сторінка"
 
 #. translators: placeholder: link to LearnDash Data Upgrade admin page.
 #: includes/admin/class-learndash-admin-data-upgrades.php:324
@@ -356,27 +360,29 @@ msgid ""
 "LearnDash Notice: Please perform a %s. This is a required step to ensure "
 "accurate reporting."
 msgstr ""
+"Примітка LearnDash: Будь ласка, виконайте% s. Це необхідний крок для "
+"забезпечення точної звітності."
 
 #. translators: placeholder: link to LearnDash Data Upgrade admin page.
 #: includes/admin/class-learndash-admin-data-upgrades.php:325
 msgid "LearnDash Data Upgrade"
-msgstr ""
+msgstr "Оновлення даних LearnDash"
 
 #: includes/admin/class-learndash-admin-data-upgrades.php:429
 msgid "Last run: none"
-msgstr ""
+msgstr "Останній запуск: ніколи"
 
 #. translators: placeholders: date/time, user name.
 #: includes/admin/class-learndash-admin-data-upgrades.php:436
 msgctxt "placeholders: date/time, user name"
 msgid "Last run: %1$s by %2$s"
-msgstr ""
+msgstr "Останній запуск %1$s на %2$s"
 
 #. translators: placeholder: Group.
 #: includes/admin/class-learndash-admin-groups-users-list-table.php:60
 msgctxt "placeholder: Group"
 msgid "Email %s"
-msgstr ""
+msgstr "Ел.пошта %s"
 
 #: includes/admin/class-learndash-admin-groups-users-list-table.php:87
 #: includes/admin/class-learndash-admin-groups-users-list-table.php:165
@@ -402,33 +408,33 @@ msgstr ""
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_StatisticsAjax.php:598
 #: themes/legacy/templates/quiz_progress_rows.php:151
 msgid "edit"
-msgstr ""
+msgstr "редагувати"
 
 #: includes/admin/class-learndash-admin-groups-users-list-table.php:102
 msgid "List Users"
-msgstr ""
+msgstr "Список користувачів"
 
 #: includes/admin/class-learndash-admin-groups-users-list-table.php:106
 #: includes/admin/class-learndash-admin-groups-users-list-table.php:120
 msgid "Export Progress"
-msgstr ""
+msgstr "Експорт прогресу"
 
 #: includes/admin/class-learndash-admin-groups-users-list-table.php:109
 #: includes/admin/class-learndash-admin-groups-users-list-table.php:131
 msgid "Export Results"
-msgstr ""
+msgstr "Експорт результатів"
 
 #. translators: placeholder: Group.
 #: includes/admin/class-learndash-admin-groups-users-list-table.php:139
 #: includes/class-ld-lms.php:2236
 msgctxt "placeholder: Group"
 msgid "Edit %s"
-msgstr ""
+msgstr "Редагувати %s"
 
 #: includes/admin/class-learndash-admin-groups-users-list-table.php:184
 #: includes/shortcodes/ld_group_user_list.php:82
 msgid "Report"
-msgstr ""
+msgstr "Звіт"
 
 #. translators: Groups.
 #. translators: placeholder: Groups.
@@ -442,11 +448,11 @@ msgstr ""
 #: includes/settings/settings-sections/class-ld-settings-section-permalinks.php:180
 msgctxt "placeholder: Groups"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 #: includes/admin/class-learndash-admin-groups-users-list.php:189
 msgid "per Page"
-msgstr ""
+msgstr "на сторінку"
 
 #: includes/admin/class-learndash-admin-groups-users-list.php:207
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:326
@@ -459,7 +465,7 @@ msgstr ""
 #: themes/ld30/templates/modules/login-modal.php:348
 #: themes/legacy/templates/profile.php:65
 msgid "Username"
-msgstr ""
+msgstr "Ім'я користувача"
 
 #: includes/admin/class-learndash-admin-groups-users-list.php:208
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_FrontToplist.php:21
@@ -469,7 +475,7 @@ msgstr ""
 #: themes/legacy/templates/profile.php:63
 #: themes/legacy/templates/quiz/partials/show_quiz_toplist_add_box.php:40
 msgid "Name"
-msgstr ""
+msgstr "Ім'я"
 
 #: includes/admin/class-learndash-admin-groups-users-list.php:209
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:1258
@@ -479,120 +485,120 @@ msgstr ""
 #: themes/ld30/templates/modules/login-modal.php:352
 #: themes/legacy/templates/profile.php:66
 msgid "Email"
-msgstr ""
+msgstr "Ел.пошта"
 
 #: includes/admin/class-learndash-admin-groups-users-list.php:210
 #: includes/admin/class-learndash-admin-groups-users-list.php:228
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:232
 #: includes/class-ld-translations.php:515
 msgid "Actions"
-msgstr ""
+msgstr "Дії"
 
 #. translators: placeholder: Group.
 #: includes/admin/class-learndash-admin-groups-users-list.php:244
 #: includes/shortcodes/ld_group_user_list.php:44
 msgctxt "placeholder: Group"
 msgid "Please login as a %s Administrator"
-msgstr ""
+msgstr "Будь ласка, увійдіть як адміністратор %s"
 
 #: includes/admin/class-learndash-admin-groups-users-list.php:261
 msgid "Email Subject:"
-msgstr ""
+msgstr "Тема електронної пошти:"
 
 #: includes/admin/class-learndash-admin-groups-users-list.php:265
 msgid "Email Message:"
-msgstr ""
+msgstr "Текст повідомлення:"
 
 #: includes/admin/class-learndash-admin-groups-users-list.php:282
 #: themes/legacy/templates/quiz/partials/show_quiz_toplist_add_box.php:55
 msgid "Send"
-msgstr ""
+msgstr "Відправити"
 
 #: includes/admin/class-learndash-admin-groups-users-list.php:283
 #: includes/admin/class-learndash-admin-posts-listing.php:1301
 #: themes/ld30/templates/shortcodes/profile/search-results.php:13
 msgid "Reset"
-msgstr ""
+msgstr "Скинути"
 
 #: includes/admin/class-learndash-admin-groups-users-list.php:284
 msgid "Both Email Subject and Message are required and cannot be empty."
-msgstr ""
+msgstr "Тема листа та текст є обов’язковими та не можуть бути порожніми."
 
 #: includes/admin/class-learndash-admin-groups-users-list.php:285
 msgid "Sending..."
-msgstr ""
+msgstr "Надсилаємо..."
 
 #: includes/admin/class-learndash-admin-groups-users-list.php:307
 msgid "Search Users"
-msgstr ""
+msgstr "Пошук користувачів"
 
 #. translators: placeholder: Groups.
 #: includes/admin/class-learndash-admin-groups-users-list.php:311
 #: includes/class-ld-lms.php:2245
 msgctxt "placeholder: Groups"
 msgid "Search %s"
-msgstr ""
+msgstr "Знайти %s"
 
 #: includes/admin/class-learndash-admin-groups-users-list.php:345
 msgid "Update User"
-msgstr ""
+msgstr "Оновити користувача"
 
 #. translators: placeholder: Post Type Plural Name.
 #: includes/admin/class-learndash-admin-menus-tabs.php:173
 msgctxt "placeholder: Post Type Plural Name"
 msgid "All  %s"
-msgstr ""
+msgstr "Усі  %s"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:321
 msgctxt "Certificates Menu Label"
 msgid "Certificates"
-msgstr ""
+msgstr "Сертифікати"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:345
 msgctxt "Assignments Menu Label"
 msgid "Assignments"
-msgstr ""
+msgstr "Призначення"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:356
 msgctxt "Submitted Essays Menu Label"
 msgid "Submitted Essays"
-msgstr ""
+msgstr "Подані есе"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:469
 msgctxt "Settings Menu Label"
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:583
 msgctxt "Quiz Submitted Essays Tab Label"
 msgid "Submitted Essays"
-msgstr ""
+msgstr "Submitted Essays"
 
 #. translators: placeholder: Edit Quiz Label.
 #: includes/admin/class-learndash-admin-menus-tabs.php:631
 msgctxt "Edit Quiz Label"
 msgid "Edit %s"
-msgstr ""
+msgstr "Редагувати %s"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:664
 msgctxt "Quiz Statistics Tab Label"
 msgid "Statistics"
-msgstr ""
+msgstr "Статистика"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:676
 msgctxt "Quiz Leaderboard Tab Label"
 msgid "Leaderboard"
-msgstr ""
+msgstr "Таблиця лідерів"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:692
 msgctxt "Reports Menu Label"
 msgid "Reports"
-msgstr ""
+msgstr "Звіти"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:703
 msgctxt "Transactions Tab Label"
 msgid "Transactions"
-msgstr ""
+msgstr "Операції"
 
 #. translators: Group.
 #: includes/admin/class-learndash-admin-menus-tabs.php:731
@@ -600,12 +606,12 @@ msgstr ""
 #: includes/admin/class-learndash-admin-menus-tabs.php:1476
 msgctxt "placeholder: Group"
 msgid "%s Administration"
-msgstr ""
+msgstr "Адміністрація %s"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:793
 msgctxt "LMS License Tab Label"
 msgid "LMS License"
-msgstr ""
+msgstr "Ліцензія LMS"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1028
 #: includes/admin/class-learndash-admin-menus-tabs.php:1029
@@ -613,52 +619,57 @@ msgid ""
 "There was an unexpected error while loading. Please try refreshing the page. "
 "If the error continues, contact LearnDash support."
 msgstr ""
+"Під час завантаження сталася несподівана помилка. Будь ласка, спробуйте "
+"оновити сторінку. Якщо помилка не зникне, зверніться до служби підтримки "
+"LearnDash."
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1032
 msgid "Section Heading"
-msgstr ""
+msgstr "Заголовок розділу"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1033
 msgid "Section Headings"
-msgstr ""
+msgstr "Заголовки розділів"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1034
 msgid "answer"
-msgstr ""
+msgstr "відповідь"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1035
 msgid "answers"
-msgstr ""
+msgstr "відповіді"
 
 #. translators: placeholder: Lesson.
 #: includes/admin/class-learndash-admin-menus-tabs.php:1058
 msgctxt "placeholder: Lesson"
 msgid "Start by adding a %s."
-msgstr ""
+msgstr "Почніть з додавання %s."
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1090
 msgctxt "Link back to the post type overview"
 msgid "Back to"
-msgstr ""
+msgstr "Повернутися"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1091
 msgctxt "Builder actions dropdown"
 msgid "Actions"
-msgstr ""
+msgstr "Дії"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1092
 msgctxt "Builder elements"
 msgid "Expand All"
-msgstr ""
+msgstr "Розгорнути все"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1093
 msgctxt "Builder elements"
 msgid "Collapse All"
-msgstr ""
+msgstr "Згорнути все"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1094
 msgid "An error occurred while submitting your request. Please try again."
 msgstr ""
+"Під час надсилання вашого запиту сталася помилка. Будь ласка, спробуйте ще "
+"раз."
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1095
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:619
@@ -668,26 +679,26 @@ msgstr ""
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:623
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:736
 msgid "Cancel"
-msgstr ""
+msgstr "Відмінити"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1096
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:137
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:102
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:87
 msgid "Edit"
-msgstr ""
+msgstr "Редагувати"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1097
 #: includes/settings/settings-fields/class-ld-settings-fields-quiz-custom-fields.php:144
 msgid "Remove"
-msgstr ""
+msgstr "Видалити"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1098
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:38
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:283
 #: includes/settings/settings-sections/class-ld-settings-section-side-submit.php:65
 msgid "Save"
-msgstr ""
+msgstr "Зберегти"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1099
 #: includes/admin/class-learndash-admin-menus-tabs.php:1378
@@ -723,11 +734,11 @@ msgstr ""
 #: includes/gutenberg/blocks/ld-usermeta/index.js:147
 #: includes/gutenberg/blocks/ld-visitor/index.js:66
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1100
 msgid "Click here to edit the question"
-msgstr ""
+msgstr "Клацніть тут, щоб відредагувати запитання"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1101
 msgid "Message for correct answer - optional"
