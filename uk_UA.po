@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: LearnDash LMS 3.2.3.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-core\n"
 "POT-Creation-Date: 2020-10-07T20:17:36+00:00\n"
-"PO-Revision-Date: 2021-01-14 16:35+0200\n"
+"PO-Revision-Date: 2021-01-14 16:45+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -742,41 +742,41 @@ msgstr "Клацніть тут, щоб відредагувати запита�
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1101
 msgid "Message for correct answer - optional"
-msgstr ""
+msgstr "Повідомлення для правильної відповіді - необов’язково"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1102
 msgid "Use different message for incorrect answer"
-msgstr ""
+msgstr "Використовуйте інше повідомлення для неправильної відповіді"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1103
 msgid "Currently same message is displayed as above."
-msgstr ""
+msgstr "В даний час відображається те саме повідомлення, що і вище."
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1104
 msgid "Message for incorrect answer - optional"
-msgstr ""
+msgstr "Повідомлення про неправильну відповідь - необов’язково"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1105
 msgid "Solution hint"
-msgstr ""
+msgstr "Підказка щодо рішення"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1106
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:335
 #: includes/admin/ld-quiz-builder-helpers.php:123
 msgid "points"
-msgstr ""
+msgstr "балів"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1107
 msgid "Click here to edit the answer"
-msgstr ""
+msgstr "Клацніть тут, щоб відредагувати відповідь"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1108
 msgid "Update Answer"
-msgstr ""
+msgstr "Оновити відповідь"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1109
 msgid "Answer is missing"
-msgstr ""
+msgstr "Відповідь відсутня"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1110
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:331
@@ -786,7 +786,7 @@ msgstr ""
 #: includes/settings/settings-sections/class-ld-settings-section-quizzes-email-settings.php:183
 #: includes/settings/settings-sections/class-ld-settings-section-quizzes-email-settings.php:240
 msgid "Allow HTML"
-msgstr ""
+msgstr "Дозволити HTML"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1111
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:325
@@ -800,7 +800,7 @@ msgstr ""
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:528
 #: themes/legacy/templates/quiz/partials/show_quiz_review_legend.php:72
 msgid "Correct"
-msgstr ""
+msgstr "Правильно"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1112
 msgctxt "First sort answer correct"
@@ -824,188 +824,188 @@ msgstr ""
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1116
 msgid "Answer updated"
-msgstr ""
+msgstr "Відповідь оновлено"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1117
 msgid "Edit answer settings"
-msgstr ""
+msgstr "Редагувати налаштування відповіді"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1118
 msgid "Answer:"
-msgstr ""
+msgstr "Відповідь:"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1119
 msgid "Click here to edit the matrix"
-msgstr ""
+msgstr "Клацніть тут, щоб відредагувати матрицю"
 
 #. translators: placeholders: Question
 #: includes/admin/class-learndash-admin-menus-tabs.php:1123
 msgctxt "placeholder: Question"
 msgid "New %1$s"
-msgstr ""
+msgstr "Нове %1$s"
 
 #. translators: placeholders: Quiz
 #: includes/admin/class-learndash-admin-menus-tabs.php:1128
 msgctxt "placeholder: Quiz"
 msgid "New %1$s"
-msgstr ""
+msgstr "Новий %1$s"
 
 #. translators: placeholders: Topic
 #: includes/admin/class-learndash-admin-menus-tabs.php:1133
 msgctxt "placeholder: Topic"
 msgid "New %1$s"
-msgstr ""
+msgstr "Нова %1$s"
 
 #. translators: placeholders: Lesson
 #: includes/admin/class-learndash-admin-menus-tabs.php:1138
 msgctxt "placeholder: Lesson"
 msgid "New %1$s"
-msgstr ""
+msgstr "Новий %1$s"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1141
 msgid "New answer"
-msgstr ""
+msgstr "Нова відповідь"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1142
 msgid "New Section Heading"
-msgstr ""
+msgstr "Нова рубрика розділу"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1144
 msgctxt "Title for the new course, lesson, quiz"
 msgid "Enter a title"
-msgstr ""
+msgstr "Введіть заголовок"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1145
 msgctxt "Answer for a question"
 msgid "Enter an answer"
-msgstr ""
+msgstr "Введіть відповідь"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1146
 msgctxt "Please wait while the form is loading"
 msgid "Please wait..."
-msgstr ""
+msgstr "Зачекайте, будь ласка..."
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1147
 msgctxt "Add lesson, topic, quiz..."
 msgid "Add"
-msgstr ""
+msgstr "Додати"
 
 #. translators: placeholders: Question
 #: includes/admin/class-learndash-admin-menus-tabs.php:1151
 msgctxt "placeholder: Question"
 msgid "Add %1$s"
-msgstr ""
+msgstr "Додати %1$s"
 
 #. translators: placeholders: Question
 #: includes/admin/class-learndash-admin-menus-tabs.php:1156
 msgctxt "placeholder: Questions"
 msgid "Add %1$s"
-msgstr ""
+msgstr "Додати %1$s"
 
 #. translators: placeholders: Quiz
 #: includes/admin/class-learndash-admin-menus-tabs.php:1161
 msgctxt "placeholder: Quiz"
 msgid "Add %1$s"
-msgstr ""
+msgstr "Додати %1$s"
 
 #. translators: placeholders: Topic
 #: includes/admin/class-learndash-admin-menus-tabs.php:1166
 msgctxt "placeholder: Topic"
 msgid "Add %1$s"
-msgstr ""
+msgstr "Додати %1$s"
 
 #. translators: placeholders: Lesson
 #: includes/admin/class-learndash-admin-menus-tabs.php:1171
 msgctxt "placeholder: Lesson"
 msgid "Add %1$s"
-msgstr ""
+msgstr "Додати %1$s"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1174
 msgid "Add answer"
-msgstr ""
+msgstr "Додати відповідь"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1175
 msgid "Add Section Heading"
-msgstr ""
+msgstr "Додайте заголовок розділу"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1177
 msgctxt "Move the current element up in the builder interface"
 msgid "Move up"
-msgstr ""
+msgstr "Перемістити вгору"
 
 #. translators: placeholders: question
 #: includes/admin/class-learndash-admin-menus-tabs.php:1180
 msgctxt "Warning when no question was entered"
 msgid "The %s is empty."
-msgstr ""
+msgstr "%s пуста."
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1183
 msgctxt "Move the current element down in the builder interface"
 msgid "Move down"
-msgstr ""
+msgstr "Перемістити вниз"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1184
 msgctxt "Rename the current element in the builder interface"
 msgid "Rename"
-msgstr ""
+msgstr "Перейменувати"
 
 #. translators: placeholders: lessons
 #: includes/admin/class-learndash-admin-menus-tabs.php:1188
 msgctxt "placeholders: lessons"
 msgid "Search %1$s"
-msgstr ""
+msgstr "Шукати %1$s"
 
 #. translators: placeholders: quizzes
 #: includes/admin/class-learndash-admin-menus-tabs.php:1193
 msgctxt "placeholders: quizzes"
 msgid "Search %1$s"
-msgstr ""
+msgstr "Шукати %1$s"
 
 #. translators: placeholders: topics
 #: includes/admin/class-learndash-admin-menus-tabs.php:1198
 msgctxt "placeholders: topics"
 msgid "Search %1$s"
-msgstr ""
+msgstr "Шукати %1$s"
 
 #. translators: placeholders: questions
 #: includes/admin/class-learndash-admin-menus-tabs.php:1203
 msgctxt "placeholders: questions"
 msgid "Search %1$s"
-msgstr ""
+msgstr "Шукати %1$s"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1207
 msgctxt "List of recent lessons, topics, quizzes or questions"
 msgid "Recent"
-msgstr ""
+msgstr "Останні"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1208
 msgctxt "Lesson, Topic, Quiz or Question posts"
 msgid "View all"
-msgstr ""
+msgstr "Показати все"
 
 #. translators: placeholders: Lesson
 #: includes/admin/class-learndash-admin-menus-tabs.php:1212
 msgctxt "placeholders: Lesson"
 msgid "Start adding your first %1$s"
-msgstr ""
+msgstr "Почніть із додавання свого першого %1$s"
 
 #. translators: placeholders: Quiz
 #: includes/admin/class-learndash-admin-menus-tabs.php:1217
 msgctxt "placeholders: Quiz"
 msgid "Start adding your first %1$s"
-msgstr ""
+msgstr "Почніть із додавання свого першого %1$s"
 
 #. translators: placeholders: Topic
 #: includes/admin/class-learndash-admin-menus-tabs.php:1222
 msgctxt "placeholders: Topic"
 msgid "Start adding your first %1$s"
-msgstr ""
+msgstr "Почніть із додавання свого першого %1$s"
 
 #. translators: placeholders: Question
 #: includes/admin/class-learndash-admin-menus-tabs.php:1227
 msgctxt "placeholders: Question"
 msgid "Start adding your first %1$s"
-msgstr ""
+msgstr "Почніть із додавання свого першого %1$s"
 
 #. translators: placeholders: Lessons
 #: includes/admin/class-learndash-admin-menus-tabs.php:1234
