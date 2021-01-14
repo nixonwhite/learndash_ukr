@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: LearnDash LMS 3.2.3.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-core\n"
 "POT-Creation-Date: 2020-10-07T20:17:36+00:00\n"
-"PO-Revision-Date: 2021-01-14 17:08+0200\n"
+"PO-Revision-Date: 2021-01-14 17:45+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -1511,11 +1511,11 @@ msgstr "Зніміть блокування вікторини для цього
 #: includes/admin/class-learndash-admin-user-profile-edit.php:395
 msgctxt "User Enrolled Courses"
 msgid "User Enrolled %s"
-msgstr ""
+msgstr "Користувач зареєстрований у %s"
 
 #: includes/admin/class-learndash-admin-user-profile-edit.php:400
 msgid "User is automatically enrolled in all Courses."
-msgstr ""
+msgstr "Користувач автоматично реєструється на всіх курсах."
 
 #: includes/admin/class-learndash-admin-user-profile-edit.php:489
 #: includes/class-ld-cpt-instance.php:93 includes/class-ld-lms.php:1518
@@ -1527,7 +1527,7 @@ msgstr ""
 #: includes/settings/settings-sections/class-ld-settings-section-courses-management-display.php:346
 #: includes/settings/settings-sections/class-ld-settings-section-groups-management-display.php:113
 msgid "Title"
-msgstr ""
+msgstr "Заголовок"
 
 #. translators: placeholder: Status label, Status value.
 #. translators: placeholder: Courses.
@@ -1545,131 +1545,131 @@ msgstr ""
 #: themes/legacy/templates/quiz_progress_rows.php:148
 #: themes/legacy/templates/topic.php:135
 msgid "Status"
-msgstr ""
+msgstr "Статус"
 
 #: includes/admin/class-learndash-admin-user-profile-edit.php:491
 msgid "Steps"
-msgstr ""
+msgstr "Кроки"
 
 #: includes/admin/class-learndash-admin-user-profile-edit.php:492
 msgid "Started / Completed"
-msgstr ""
+msgstr "Ропочато / Завершено"
 
 #. translators: placeholder: Started Date.
 #: includes/admin/class-learndash-admin-user-profile-edit.php:574
 msgctxt "placeholder: Started date"
 msgid "Started: %s"
-msgstr ""
+msgstr "Розпочато: %s"
 
 #. translators: placeholder: Started Group Date, Group.
 #: includes/admin/class-learndash-admin-user-profile-edit.php:585
 msgctxt "placeholder: Started Group date, Group"
 msgid "Started: %1$s (%2$s Access)"
-msgstr ""
+msgstr "Розпочато: %1$s (%2$s доступ)"
 
 #: includes/admin/class-learndash-admin-user-profile-edit.php:600
 #: themes/legacy/templates/course_progress_rows.php:75
 msgid "(access expired)"
-msgstr ""
+msgstr "(доступ закінчився)"
 
 #. translators: placeholder: Course Expires Date.
 #: includes/admin/class-learndash-admin-user-profile-edit.php:609
 msgctxt "Course Expires on date"
 msgid "Expires: %s"
-msgstr ""
+msgstr "Термін дії закінчується: %s"
 
 #. translators: placeholder: Course Completed Data.
 #: includes/admin/class-learndash-admin-user-profile-edit.php:623
 msgctxt "placeholder: Completed date"
 msgid "Completed: %s"
-msgstr ""
+msgstr "Завершено: %s"
 
 #. translators: placeholder: Lesson.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:70
 msgctxt "placeholder: Lesson"
 msgid "Click the '+' to add a new %s"
-msgstr ""
+msgstr "Клацніть '+' щоб додати новий %s"
 
 #. translators: placeholder: Topic.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:77
 msgctxt "placeholder: Topic"
 msgid "Click the '+' to add a new %s"
-msgstr ""
+msgstr "Клацніть '+' щоб додати новий %s"
 
 #. translators: placeholder: Quiz.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:84
 msgctxt "placeholder: Quiz"
 msgid "Click the '+' to add a new %s"
-msgstr ""
+msgstr "Клацніть '+' щоб додати новий %s"
 
 #. translators: placeholder: Lessons.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:92
 msgctxt "placeholder: Lessons"
 msgid "Drop %s Here"
-msgstr ""
+msgstr "Перетягніть %s сюди"
 
 #. translators: placeholder: Lesson, Topics.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:99
 msgctxt "placeholder: Lesson, Topics"
 msgid "Drop %1$s %2$s Here"
-msgstr ""
+msgstr "Перетягніть %1$s %2$s сюди"
 
 #. translators: placeholder: Quizzes.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:107
 msgctxt "placeholder: Quizzes"
 msgid "Drop Global %s Here"
-msgstr ""
+msgstr "Перетягніть глобальні %s сюди"
 
 #. translators: placeholder: Lesson, Quizzes.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:115
 msgctxt "placeholder: Lesson, Quizzes"
 msgid "Drop %1$s %2$s Here"
-msgstr ""
+msgstr "Перетягніть %1$s %2$s сюди"
 
 #. translators: placeholder: Topic, Quizzes.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:122
 msgctxt "placeholder: Topic, Quizzes"
 msgid "Drop %1$s %2$s Here"
-msgstr ""
+msgstr "Перетягніть %1$s %2$s сюди"
 
 #. translators: placeholder: number of steps.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:158
 msgctxt "placeholder: number of steps"
 msgid "Total Steps: %s"
-msgstr ""
+msgstr "Загалом кроків: %s"
 
 #. translators: placeholder: will contain post type label.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:566
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:589
 msgctxt "placeholder: will contain post type label"
 msgid "Edit %s Settings (new window)"
-msgstr ""
+msgstr "Редагувати налаштування %s (нове вікно)"
 
 #. translators: placeholder: will contain post type label.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:572
 msgctxt "placeholder: will contain post type label"
 msgid "View %s (new window)"
-msgstr ""
+msgstr "Переглянути %s (нове вікно)"
 
 #. translators: placeholder: will contain post type label.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:580
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:597
 msgctxt "placeholder: will contain post type label"
 msgid "Move %s to Trash"
-msgstr ""
+msgstr "Перемістити %s у кошик"
 
 #. translators: placeholders: will contain post type label, Course.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:586
 msgctxt "placeholders: will contain post type label, Course"
 msgid "Remove %1$s from %2$s"
-msgstr ""
+msgstr "Видалити %1$s з %2$s"
 
 #. translators: placeholder: will contain post type label.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:611
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:614
 msgctxt "placeholder: will contain post type label"
 msgid "Move %s"
-msgstr ""
+msgstr "Перемістити %s"
 
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:617
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:687
@@ -1678,7 +1678,7 @@ msgstr ""
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:621
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:734
 msgid "Edit Title"
-msgstr ""
+msgstr "Редагувати заголовок"
 
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:618
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:688
@@ -1687,25 +1687,25 @@ msgstr ""
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:622
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:735
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #. translators: placeholder: Lesson.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:671
 msgctxt "placeholder: Lesson"
 msgid "Move %s"
-msgstr ""
+msgstr "Перемістити %s"
 
 #. translators: placeholder: Lesson.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:675
 msgctxt "placeholder: Lesson"
 msgid "Edit %s Settings (new window)"
-msgstr ""
+msgstr "Редагувати налаштування %s (нове вікно)"
 
 #. translators: placeholder: Lesson.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:679
 msgctxt "placeholder: Lesson"
 msgid "View %s (new window)"
-msgstr ""
+msgstr "Переглянути %s (нове вікно)"
 
 #. translators: placeholders: Lesson, Course.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:683
@@ -1713,7 +1713,7 @@ msgstr ""
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:738
 msgctxt "placeholders: Lesson, Course"
 msgid "Remove %1$s from %2$s"
-msgstr ""
+msgstr "Видалити %1$s з %2$s"
 
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:701
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:728
@@ -1725,83 +1725,83 @@ msgstr ""
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:1279
 #: includes/settings/settings-fields/class-ld-settings-fields-quiz-custom-fields.php:61
 msgid "Move"
-msgstr ""
+msgstr "Перемістити"
 
 #. translators: placeholder: Topic.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:705
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:726
 msgctxt "placeholder: Topic"
 msgid "Edit %s Settings (new window)"
-msgstr ""
+msgstr "Редагувати налаштування %s (нове вікно)"
 
 #. translators: placeholder: Topic.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:708
 msgctxt "placeholder: Topic"
 msgid "View %s (new window)"
-msgstr ""
+msgstr "Переглянути %s (нове вікно)"
 
 #. translators: placeholder: Topic.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:732
 msgctxt "placeholder: Quiz"
 msgid "Edit %s Settings (new window)"
-msgstr ""
+msgstr "Редагувати налаштування %s (нове вікно)"
 
 #. translators: placeholder: placeholder: Quiz.
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:735
 msgctxt "placeholder: Quiz"
 msgid "View %s (new window)"
-msgstr ""
+msgstr "Переглянути %s (нове вікно)"
 
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:1038
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:1073
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:958
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:994
 msgid "#1: Invalid post data"
-msgstr ""
+msgstr "#1: Некоректні дані запиту"
 
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:1041
 #: includes/admin/classes-builders/class-learndash-admin-course-builder-metabox.php:1076
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:961
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:997
 msgid "#2: Invalid post data"
-msgstr ""
+msgstr "#2: Некоректні дані запиту"
 
 #. translators: placeholder: Question.
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:73
 msgctxt "placeholder: Question"
 msgid "Click the '+' to add a new %s"
-msgstr ""
+msgstr "Клацніть '+' щоб додати новий %s"
 
 #. translators: placeholder: Questions.
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:80
 msgctxt "placeholder: Questions"
 msgid "Drop %s Here"
-msgstr ""
+msgstr "Перетягніть %s сюди"
 
 #. translators: placeholder: Questions label, number of questions.
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:119
 msgctxt "placeholder: Questions label, number of questions"
 msgid "Total %1$s: %2$s"
-msgstr ""
+msgstr "Загалом %1$s: %2$s"
 
 #. translators: placeholders: post type labels like Question, second Quiz.
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:146
 msgctxt "placeholders: post type labels like Question, second Quiz"
 msgid "Are you sure you want to remove this %1$s from the %2$s?"
-msgstr ""
+msgstr "Ви впевнені, що хочете видалити %1$s з %2$s?"
 
 #. translators: placeholders: post type labels like Question.
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:152
 msgctxt "placeholders: post type labels like Question"
 msgid "Are you sure you want to move this %s to Trash?"
-msgstr ""
+msgstr "Ви впевнені, що хочете перемістити %s у кошик?"
 
 #. translators: placeholder: Question Type.
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:575
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:707
 msgctxt "placeholder: Question Type"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 #. translators: placeholder: Question Points.
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:585
@@ -1818,137 +1818,139 @@ msgstr[2] ""
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:729
 msgctxt "placeholders: Question, Quiz"
 msgid "Remove %1$s from %2$s"
-msgstr ""
+msgstr "Видалити %1$s з %2$s"
 
 #. translators: placeholder: Total of question points.
 #: includes/admin/classes-builders/class-learndash-admin-quiz-builder-metabox.php:650
 msgctxt "placeholder: Total of question points"
 msgid "Total Points: %s"
-msgstr ""
+msgstr "Загалом балів: %s"
 
 #. translators: Export User Course Data Label.
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-courses.php:53
 #: includes/admin/ld-admin.php:258
 msgctxt "Export User Course Data Label"
 msgid "Export User %s Data"
-msgstr ""
+msgstr "Експортувати дані користувача %s"
 
 #. translators: placeholders: result count, total count.
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-courses.php:303
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:277
 msgctxt "placeholders: result count, total count"
 msgid "%1$d of %2$s Users"
-msgstr ""
+msgstr "%1$d з %2$s користувачів"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-courses.php:315
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:291
 msgid "user_id"
-msgstr ""
+msgstr "user_id"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-courses.php:320
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:296
 msgid "name"
-msgstr ""
+msgstr "name"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-courses.php:326
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:302
 msgid "email"
-msgstr ""
+msgstr "email"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-courses.php:332
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:365
 msgid "course_id"
-msgstr ""
+msgstr "course_id"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-courses.php:337
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:371
 msgid "course_title"
-msgstr ""
+msgstr "course_title"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-courses.php:343
 msgid "steps_completed"
-msgstr ""
+msgstr "steps_completed"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-courses.php:348
 msgid "steps_total"
-msgstr ""
+msgstr "steps_total"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-courses.php:353
 msgid "course_completed"
-msgstr ""
+msgstr "course_completed"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-courses.php:358
 msgid "course_completed_on"
-msgstr ""
+msgstr "course_completed_on"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-courses.php:396
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:402
 msgid ""
 "ERROR: Cannot create working folder. Check that the parent folder is writable"
 msgstr ""
+"ПОМИЛКА: Не вдається створити робочу папку. Переконайтеся, що є доступ на "
+"запис у батьківську папку"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-courses.php:497
 msgctxt "Course Complete Report label: NO"
 msgid "NO"
-msgstr ""
+msgstr "НІ"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-courses.php:502
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-courses.php:505
 msgctxt "Course Complete Report label: YES"
 msgid "YES"
-msgstr ""
+msgstr "ТАК"
 
 #. translators: Export User Quiz Data Label.
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:54
 msgctxt "Export User Quiz Data Label"
 msgid "Export User %s Data"
-msgstr ""
+msgstr "Експортувати дані користувача %s"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:308
 msgid "quiz_id"
-msgstr ""
+msgstr "quiz_id"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:313
 msgid "quiz_title"
-msgstr ""
+msgstr "quiz_title"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:319
 msgid "score"
-msgstr ""
+msgstr "score"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:324
 msgid "total"
-msgstr ""
+msgstr "total"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:329
 msgid "date"
-msgstr ""
+msgstr "date"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:341
 msgid "points_total"
-msgstr ""
+msgstr "points_total"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:347
 msgid "percentage"
-msgstr ""
+msgstr "percentage"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:353
 msgid "time_spent"
-msgstr ""
+msgstr "time_spent"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:359
 msgid "passed"
-msgstr ""
+msgstr "passed"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:360
 msgctxt "Quiz Passed Report label: NO"
 msgid "NO"
-msgstr ""
+msgstr "НІ"
 
 #: includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php:557
 msgctxt "Quiz Passed Report label: YES"
 msgid "YES"
-msgstr ""
+msgstr "ТАК"
 
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list-convert.php:40
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list.php:40
@@ -1957,13 +1959,13 @@ msgstr ""
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-courses.php:39
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-quizzes.php:40
 msgid "Upgrade"
-msgstr ""
+msgstr "Оновити"
 
 #. translators: placeholder: Course.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list-convert.php:49
 msgctxt "placeholder: Course"
 msgid "Convert %s Access Lists"
-msgstr ""
+msgstr "Конвертувати списки доступу %s"
 
 #. translators: placeholder: course.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list-convert.php:57
@@ -1972,6 +1974,8 @@ msgid ""
 "This convert the %s access list setting to user meta where it can be managed "
 "more efficiently. (Optional)"
 msgstr ""
+"Це перетворить налаштування списку доступу %s у метадані користувача, де "
+"можна ними управляти більш ефективно. (опціонально)"
 
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list-convert.php:83
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list.php:83
@@ -1979,7 +1983,7 @@ msgstr ""
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-courses.php:85
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-quizzes.php:86
 msgid "Continue previous upgrade processing?"
-msgstr ""
+msgstr "Продовжити попереднє встановлення оновлень?"
 
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list-convert.php:274
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list.php:271
@@ -1988,7 +1992,7 @@ msgstr ""
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-courses.php:273
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-quizzes.php:274
 msgid "Complete"
-msgstr ""
+msgstr "Завершено"
 
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list-convert.php:278
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list.php:275
@@ -2004,7 +2008,7 @@ msgstr ""
 #: includes/gutenberg/blocks/ld-course-list/index.js:297
 #: includes/gutenberg/blocks/ld-group-list/index.js:297
 msgid "In Progress"
-msgstr ""
+msgstr "У процесі"
 
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list-convert.php:281
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list.php:278
@@ -2013,20 +2017,20 @@ msgstr ""
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-courses.php:280
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-quizzes.php:281
 msgid "Incomplete"
-msgstr ""
+msgstr "Не встановлено"
 
 #. translators: placeholders: result count, total count.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list-convert.php:288
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list.php:285
 msgctxt "placeholders: progress status, result count, total count"
 msgid "%1$s: %2$d of %3$d Courses"
-msgstr ""
+msgstr "%1$s: %2$d з %3$d курсів"
 
 #. translators: placeholder: Course.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list.php:49
 msgctxt "placeholder: Course"
 msgid "Upgrade %s Meta"
-msgstr ""
+msgstr "Оновити метадані %s"
 
 #. translators: placeholder: course.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list.php:57
