@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: LearnDash LMS 3.2.3.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-core\n"
 "POT-Creation-Date: 2020-10-07T20:17:36+00:00\n"
-"PO-Revision-Date: 2021-01-14 17:45+0200\n"
+"PO-Revision-Date: 2021-01-15 18:14+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -2036,13 +2036,13 @@ msgstr "Оновити метадані %s"
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list.php:57
 msgctxt "placeholder: course"
 msgid "This upgrade will upgrade the %s meta elements. (Optional)"
-msgstr ""
+msgstr "Це оновить метаелементи %s. (опціонально)"
 
 #. translators: placeholders: Quiz, Questions.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-quiz-questions.php:48
 msgctxt "placeholders: Quiz, Questions"
 msgid "Upgrade %1$s %2$s"
-msgstr ""
+msgstr "Оновити %1$s %2$s"
 
 #. translators: placeholders: Quiz questions, Quiz.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-quiz-questions.php:58
@@ -2051,110 +2051,116 @@ msgid ""
 "This upgrade will convert the %1$s %2$s to WordPress custom post type. "
 "<strong>This is required before enabling %3$s Builder.</strong> (Optional)"
 msgstr ""
+"Це оновлення перетворить %1$s %2$s у користувацький тип запису WordPress. "
+"<strong>Необхідно перед умікненням конструктору %3$s.</strong> (опціонально)"
 
 #. translators: placeholder: Quiz.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-quiz-questions.php:130
 msgctxt "placeholders: Quiz"
 msgid "Invalid %s ID"
-msgstr ""
+msgstr "Невірний %s ID"
 
 #. translators: placeholders: Questions, Quiz, Quiz Title.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-quiz-questions.php:151
 msgctxt "placeholders: Questions, Quiz, Quiz Title"
 msgid "Reprocess %1$s for %2$s: \"%3$s\""
-msgstr ""
+msgstr "Повторно обробити %1$s %2$s: \"%3$s\""
 
 #. translators: placeholders: Questions.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-quiz-questions.php:166
 msgctxt "placeholders: Questions"
 msgid "Process Mismatched %s only?"
-msgstr ""
+msgstr "Обробити тільки невідповідні %s ?"
 
 #. translators: placeholders: result count, total count, Questions label.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-quiz-questions.php:466
 msgctxt ""
 "placeholders: progress status, result count, total count, Questions label"
 msgid "%1$s: %2$d of %3$d %4$s"
-msgstr ""
+msgstr "%1$s: %2$d of %3$d %4$s"
 
 #. translators: placeholder: Number of skipper Questions.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-quiz-questions.php:478
 msgctxt "placeholder: Number of skipper Questions"
 msgid "ProQuiz Questions Skipped %d"
-msgstr ""
+msgstr "Пропущено запитань ProQuiz  %d"
 
 #. translators: placeholder: ProQuiz Question ID.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-quiz-questions.php:513
 msgctxt "placeholder: ProQuiz Question ID"
 msgid "[%d] Empty Question ProID given."
-msgstr ""
+msgstr "[%d] Надано порожній ProID запитання."
 
 #. translators: placeholder: ProQuiz Question ID.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-quiz-questions.php:524
 msgctxt "placeholder: ProQuiz Question ID"
 msgid "ProQuestion ID [%d] Model not found."
-msgstr ""
+msgstr "ProQuestion ID [%d] Модель не знайдено."
 
 #. translators: placeholder: ProQuiz Question ID, ProQuiz Quiz ID.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-quiz-questions.php:536
 msgctxt "placeholder: ProQuiz Question ID, ProQuiz Quiz ID"
 msgid "ProQuestion ID [%1$d] ProQuiz ID empty [%2$d]."
-msgstr ""
+msgstr "ProQuestion ID [%1$d] порожній ProQuiz ID [%2$d]."
 
 #. translators: placeholder: ProQuiz Question ID, ProQuiz Quiz ID.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-quiz-questions.php:548
 msgctxt "placeholder: ProQuiz Question ID, ProQuiz Quiz ID"
 msgid "ProQuestion ID [%1$d] ProQuiz ID Model not found [%2$d]."
-msgstr ""
+msgstr "ProQuestion ID [%1$d] ProQuiz ID модель не знайдено [%2$d]."
 
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-rename_wpproquiz-tables.php:137
 msgid "Reload"
-msgstr ""
+msgstr "Перезавантажити"
 
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-rename_wpproquiz-tables.php:144
 msgid "Rename WPProQuiz DB Tables"
-msgstr ""
+msgstr "Перейменувати таблиці БД WPProQuiz"
 
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-rename_wpproquiz-tables.php:150
+#, fuzzy
 msgid ""
 "This upgrade will rename the existing WPProQuiz database tables to a new "
 "name inline with LearnDash standards.<br /><strong>It is recommended you set "
 "your site to maintenance mode before performing this upgrade.</strong>"
 msgstr ""
+"This upgrade will rename the existing WPProQuiz database tables to a new "
+"name inline with LearnDash standards.<br /><strong>It is recommended you set "
+"your site to maintenance mode before performing this upgrade.</strong>"
 
 #. translators: placeholders: default prefix, example table name.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-rename_wpproquiz-tables.php:161
 msgctxt "placeholders: default prefix, example table name"
 msgid "%1$s - Legacy ProQuiz table prefix. Ex. %2$s"
-msgstr ""
+msgstr "%1$s - Застарілий префікс таблиці ProQuiz. Пр. %2$s"
 
 #. translators: placeholders: learndash prefix, example table name.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-rename_wpproquiz-tables.php:169
 msgctxt "placeholders: learndash prefix, example table name"
 msgid "%1$s - LearnDash ProQuiz table prefix. Ex. %2$s"
-msgstr ""
+msgstr "%1$s - префікс таблиці LearnDash ProQuiz. Пр. %2$s"
 
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-rename_wpproquiz-tables.php:189
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-rename_wpproquiz-tables.php:229
 msgid "Source Tables"
-msgstr ""
+msgstr "Таблиці джерел"
 
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-rename_wpproquiz-tables.php:191
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-rename_wpproquiz-tables.php:231
 msgid "Destination Tables"
-msgstr ""
+msgstr "Таблиці призначення"
 
 #. translators: placeholders: result count, total count.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-rename_wpproquiz-tables.php:525
 msgctxt "placeholders: progress status, result count, total count"
 msgid "%1$s: %2$d of %3$d ProQuiz Table"
-msgstr ""
+msgstr "%1$s: %2$d з %3$d таблиць ProQuiz "
 
 #. translators: placeholder: Course.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-courses.php:48
 msgctxt "placeholder: Course"
 msgid "Upgrade User %s Data"
-msgstr ""
+msgstr "Оновити дані користувачів %s"
 
 #. translators: placeholder: Course, course.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-courses.php:57
@@ -2163,19 +2169,21 @@ msgid ""
 "This upgrade will sync your existing user data for %s into a new database "
 "table for better reporting. (Required)"
 msgstr ""
+"Це оновлення синхронізує існуючі дані користувачів %s у нову таблицю бази "
+"даних для кращої звітності. (Необхідно)"
 
 #. translators: placeholders: result count, total count.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-courses.php:287
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-quizzes.php:288
 msgctxt "placeholders: progress status, result count, total count"
 msgid "%1$s: %2$d of %3$d Users"
-msgstr ""
+msgstr "%1$s: %2$d з %3$d користувачів"
 
 #. translators: placeholder: Quiz.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-quizzes.php:49
 msgctxt "placeholder: Quiz"
 msgid "Upgrade User %s Data"
-msgstr ""
+msgstr "Оновити дані користувачів %s"
 
 #. translators: placeholder: quiz.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-quizzes.php:58
@@ -2184,11 +2192,13 @@ msgid ""
 "This upgrade will sync your existing user data for %s into a new database "
 "table for better reporting. (Required)"
 msgstr ""
+"Це оновлення синхронізує існуючі дані користувачів %s у нову таблицю бази "
+"даних для кращої звітності. (Необхідно)"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:39
 #: includes/ld-assignment-uploads.php:885
 msgid "Assignment"
-msgstr ""
+msgstr "Призначення"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:67
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:129
@@ -2198,7 +2208,7 @@ msgstr ""
 #: includes/class-ld-semper-fi-module.php:1509
 #: includes/settings/class-ld-settings-fields.php:283
 msgid "Click for Help!"
-msgstr ""
+msgstr "Клацніть для допомоги!"
 
 #. translators: placeholder: Course.
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:70
@@ -2208,7 +2218,7 @@ msgstr ""
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-quiz-access-settings.php:250
 msgctxt "placeholder: Course"
 msgid "Associated %s"
-msgstr ""
+msgstr "Пов'язаний %s"
 
 #. translators: placeholder: Course.
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:81
@@ -2216,13 +2226,13 @@ msgstr ""
 #: includes/class-ld-lms.php:4697
 msgctxt "placeholder: Course"
 msgid "-- Select a %s --"
-msgstr ""
+msgstr "-- Оберіть %s --"
 
 #. translators: placeholder: Course.
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:122
 msgctxt "placeholder: Course"
 msgid "Associate with a %s."
-msgstr ""
+msgstr "Пов'яжіть із %s."
 
 #. translators: placeholder: Lesson.
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:132
@@ -2231,40 +2241,40 @@ msgstr ""
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-topic-access-settings.php:217
 msgctxt "placeholder: Lesson"
 msgid "Associated %s"
-msgstr ""
+msgstr "Associated %s"
 
 #. translators: placeholder: Lesson.
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:143
 #: includes/class-ld-lms.php:4734 includes/class-ld-semper-fi-module.php:668
 msgctxt "placeholder: Lesson"
 msgid "-- Select a %s --"
-msgstr ""
+msgstr "-- Оберіть %s --"
 
 #. translators: placeholder: Lesson.
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:167
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:194
 msgctxt "placeholder: Lesson"
 msgid "Associate with a %s."
-msgstr ""
+msgstr "Пов'яжіть із %s."
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:179
 #: includes/admin/classes-posts-listings/class-learndash-admin-assignments-listing.php:45
 #: themes/ld30/templates/assignment/partials/row.php:204
 #: themes/ld30/templates/shortcodes/profile/assignment-row.php:105
 msgid "Approved"
-msgstr ""
+msgstr "Схвалено"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:183
 #: includes/admin/classes-posts-listings/class-learndash-admin-assignments-listing.php:46
 msgid "Not Approved"
-msgstr ""
+msgstr "Не схвалено"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:186
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:304
 #: includes/admin/classes-posts-listings/class-learndash-admin-assignments-listing.php:396
 #: includes/admin/classes-posts-listings/class-learndash-admin-essays-listing.php:366
 msgid "Approve"
-msgstr ""
+msgstr "Схвалити"
 
 #. translators: placeholders: Points label, points input, maximum points.
 #. translators: placeholders: Points label, current points, maximum points.
@@ -2300,7 +2310,7 @@ msgstr ""
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:561
 #: themes/legacy/templates/quiz_progress_rows.php:148
 msgid "Points"
-msgstr ""
+msgstr "Бали"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:209
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:312
@@ -2310,25 +2320,25 @@ msgstr ""
 #: includes/settings/settings-sections/class-ld-settings-section-questions-taxonomies.php:221
 #: includes/settings/settings-sections/class-ld-settings-section-quizzes-management-display.php:424
 msgid "Update"
-msgstr ""
+msgstr "Оновити"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:209
 msgid "Update & Approve"
-msgstr ""
+msgstr "Оновити та схвалити"
 
 #. translators: placeholder: max points.
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:214
 msgctxt "placeholder: max points"
 msgid "Awarded Points (Out of %d):"
-msgstr ""
+msgstr "Набрані бали (з %d):"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:219
 msgid "Points not enabled"
-msgstr ""
+msgstr "Бали не ввімкнено"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:223
 msgid "Assignment Points."
-msgstr ""
+msgstr "Бали призначення."
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:239
 #: includes/admin/classes-posts-listings/class-learndash-admin-essays-listing.php:394
@@ -2337,118 +2347,119 @@ msgstr ""
 #: includes/settings/settings-sections/class-ld-settings-section-support-copy-system-info.php:62
 #: themes/legacy/templates/learndash_lesson_assignment_uploads_list.php:57
 msgid "Download"
-msgstr ""
+msgstr "Завантажити"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:241
 msgid "Assignment download."
-msgstr ""
+msgstr "Завантажити призначення."
 
 #. translators: placeholder: Course.
 #: includes/admin/classes-posts-edits/class-learndash-admin-course-edit.php:114
 msgctxt "placeholder: Course"
 msgid "LearnDash %s Builder"
-msgstr ""
+msgstr "Конструктор %s LearnDash"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:41
 msgid "Essay Upload"
-msgstr ""
+msgstr "Завантажити есе"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:50
 msgid "Essay Grading Status"
-msgstr ""
+msgstr "Статус оцінки есе"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:101
 msgid "Not Graded"
-msgstr ""
+msgstr "Не оцінено"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:103
 #: includes/lib/wp-pro-quiz/lib/controller/WpProQuiz_Controller_Statistics.php:865
 msgid "Graded"
-msgstr ""
+msgstr "Оцінено"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:113
 msgid "Essay Question"
-msgstr ""
+msgstr "Запитання есе"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:139
 msgid "Points available"
-msgstr ""
+msgstr "Доступно балів"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:141
 msgid "Points awarded"
-msgstr ""
+msgstr "Набрані бали"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:148
 msgid "We could not find the essay question for this response"
-msgstr ""
+msgstr "Ми не змогли знайти запитання есе для цієї відповіді"
 
 #. translators: placeholder: Quiz.
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:175
 msgctxt "placeholder: Quiz."
 msgid "Essay %s"
-msgstr ""
+msgstr "Есе %s"
 
 #. translators: placeholder: Quiz.
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:182
 msgctxt "placeholder: Quiz"
 msgid "No %s"
-msgstr ""
+msgstr "Немає %s"
 
 #. translators: placeholder: Quiz.
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:208
 msgctxt "placeholder: Quiz"
 msgid "Essay %s"
-msgstr ""
+msgstr "Есе %s"
 
 #. translators: placeholder: Course.
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:228
 msgctxt "placeholder: Course"
 msgid "Essay %s"
-msgstr ""
+msgstr "Есе %s"
 
 #. translators: placeholder: Lesson.
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:248
 msgctxt "placeholder: Lesson"
 msgid "Essay %s"
-msgstr ""
+msgstr "Есе %s"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:270
 msgid "Submitted on: <b>%1$s</b>"
-msgstr ""
+msgstr "Надіслано: <b>%1$s</b>"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:298
 msgid "Delete Permanently"
-msgstr ""
+msgstr "Остаточно видалити"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:300
 msgid "Move to Trash"
-msgstr ""
+msgstr "Перемістити у кошик"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:335
 msgid "Upload was not provided for this question"
-msgstr ""
+msgstr "Завантаження для цього питання не передбачалося"
 
 #. translators: placeholder: Group.
 #: includes/admin/classes-posts-edits/class-learndash-admin-group-edit.php:73
 msgctxt "placeholder: Group"
 msgid "%s Attributes"
-msgstr ""
+msgstr "Атрибути %s"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-group-edit.php:89
 msgid "(no parent)"
-msgstr ""
+msgstr "(без батьків)"
 
 #. translators: placeholder: Group.
 #: includes/admin/classes-posts-edits/class-learndash-admin-group-edit.php:99
+#, fuzzy
 msgctxt "placeholder: Group"
 msgid "%s Parent"
-msgstr ""
+msgstr "%s батьки"
 
 #. translators: placeholders: Question.
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:247
 msgctxt "placeholders: Question"
 msgid "%s Category"
-msgstr ""
+msgstr "Категорія %s"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:249
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:285
@@ -2462,12 +2473,12 @@ msgstr ""
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:167
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:1301
 msgid "(optional)"
-msgstr ""
+msgstr "(опціонально)"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:258
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:186
 msgid "Answer type"
-msgstr ""
+msgstr "Тип відповіді"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:267
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:276
@@ -2475,42 +2486,42 @@ msgstr ""
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:121
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:228
 msgid "(required)"
-msgstr ""
+msgstr "(обов'язково)"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:276
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:228
 msgid "Answers"
-msgstr ""
+msgstr "Відповіді"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:285
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:552
 msgid "Single choice options"
-msgstr ""
+msgstr "Опції одиничного вибору"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:294
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:138
 msgid "Message with the correct answer"
-msgstr ""
+msgstr "Повідомлення з правильною відповіддю"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:303
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:155
 msgid "Message with the incorrect answer"
-msgstr ""
+msgstr "Повідомлення із неправильною відповіддю"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:312
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:167
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:614
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:662
 msgid "Hint"
-msgstr ""
+msgstr "Підказка"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:321
 msgid "Template"
-msgstr ""
+msgstr "Шаблон"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:411
 msgid "Answer Type"
-msgstr ""
+msgstr "Тип відповіді"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:444
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:94
