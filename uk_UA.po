@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: LearnDash LMS 3.2.3.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-core\n"
 "POT-Creation-Date: 2020-10-07T20:17:36+00:00\n"
-"PO-Revision-Date: 2021-01-15 18:14+0200\n"
+"PO-Revision-Date: 2021-01-17 17:35+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -1429,7 +1429,7 @@ msgstr "%s потрібен"
 #: includes/admin/class-learndash-admin-posts-listing.php:1025
 msgctxt "placeholder: Topic"
 msgid "%s Required"
-msgstr "%s потрібен"
+msgstr "%s потрібна"
 
 #. translators: Placeholders: Lesson label, Lesson Filter Anchor.
 #: includes/admin/class-learndash-admin-posts-listing.php:1068
@@ -2863,7 +2863,7 @@ msgstr ""
 #: includes/admin/classes-posts-listings/class-learndash-admin-quizzes-listing.php:78
 msgctxt "placeholder: Topics"
 msgid "All %s"
-msgstr ""
+msgstr "Усі %s"
 
 #: includes/admin/classes-posts-listings/class-learndash-admin-assignments-listing.php:111
 #: includes/admin/classes-posts-listings/class-learndash-admin-essays-listing.php:134
@@ -3727,42 +3727,42 @@ msgstr ""
 #: includes/class-ld-custom-label.php:32
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:78
 msgid "Course"
-msgstr ""
+msgstr "Курс"
 
 #: includes/class-ld-custom-label.php:36
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:86
 msgid "Courses"
-msgstr ""
+msgstr "Курси"
 
 #: includes/class-ld-custom-label.php:40
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:94
 msgid "Lesson"
-msgstr ""
+msgstr "Урок"
 
 #: includes/class-ld-custom-label.php:44
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:102
 msgid "Lessons"
-msgstr ""
+msgstr "Уроки"
 
 #: includes/class-ld-custom-label.php:48
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:110
 msgid "Topic"
-msgstr ""
+msgstr "Тема"
 
 #: includes/class-ld-custom-label.php:52
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:118
 msgid "Topics"
-msgstr ""
+msgstr "Теми"
 
 #: includes/class-ld-custom-label.php:56
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:126
 msgid "Quiz"
-msgstr ""
+msgstr "Вікторина"
 
 #: includes/class-ld-custom-label.php:60
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:134
 msgid "Quizzes"
-msgstr ""
+msgstr "Вікторини"
 
 #: includes/class-ld-custom-label.php:64
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:121
@@ -3771,26 +3771,26 @@ msgstr ""
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:142
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:92
 msgid "Question"
-msgstr ""
+msgstr "Запитання"
 
 #: includes/class-ld-custom-label.php:72
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:158
 #: includes/settings/shortcodes-sections/ld_group.php:13
 msgid "Group"
-msgstr ""
+msgstr "Група"
 
 #: includes/class-ld-custom-label.php:76
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:166
 msgid "Groups"
-msgstr ""
+msgstr "Групи"
 
 #: includes/class-ld-custom-label.php:80
 msgid "Take this Course"
-msgstr ""
+msgstr "Розпочати курс"
 
 #: includes/class-ld-custom-label.php:84
 msgid "Enroll in Group"
-msgstr ""
+msgstr "Записатися в групу"
 
 #: includes/class-ld-custom-label.php:88
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:157
@@ -3804,377 +3804,377 @@ msgstr ""
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:787
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:820
 msgid "Mark Complete"
-msgstr ""
+msgstr "Позначити завершеним"
 
 #: includes/class-ld-custom-label.php:92
 msgid "Click Here to Continue"
-msgstr ""
+msgstr "Клацніть для продовження"
 
 #. translators: placeholder: Courses.
 #: includes/class-ld-custom-label.php:200
 msgctxt "placeholder: Courses"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Course.
 #: includes/class-ld-custom-label.php:206
 msgctxt "placeholder: Course"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Lessons.
 #: includes/class-ld-custom-label.php:216
 msgctxt "placeholder: Lessons"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Lesson.
 #: includes/class-ld-custom-label.php:222
 msgctxt "placeholder: Lesson"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Topics.
 #: includes/class-ld-custom-label.php:232
 msgctxt "placeholder: Topics"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Topic.
 #: includes/class-ld-custom-label.php:238
 msgctxt "placeholder: Topic"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Quizzes.
 #: includes/class-ld-custom-label.php:249
 msgctxt "placeholder: Quizzes"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Quiz.
 #: includes/class-ld-custom-label.php:255
 msgctxt "placeholder: Quiz"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Questions.
 #: includes/class-ld-custom-label.php:265
 msgctxt "placeholder: Questions"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Question.
 #: includes/class-ld-custom-label.php:271
 msgctxt "placeholder: Question"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Transactions.
 #: includes/class-ld-custom-label.php:282
 msgctxt "placeholder: Transactions"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Transaction.
 #: includes/class-ld-custom-label.php:288
 msgctxt "placeholder: Transaction"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Groups.
 #: includes/class-ld-custom-label.php:298
 msgctxt "placeholder: Groups"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-custom-label.php:304
 msgctxt "placeholder: Group"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Assignments.
 #: includes/class-ld-custom-label.php:314
 msgctxt "placeholder: Assignments"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Assignment.
 #: includes/class-ld-custom-label.php:320
 msgctxt "placeholder: Assignment"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Essays.
 #: includes/class-ld-custom-label.php:330
 msgctxt "placeholder: Essays"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Essay.
 #: includes/class-ld-custom-label.php:336
 msgctxt "placeholder: Essay"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Certificates.
 #: includes/class-ld-custom-label.php:346
 msgctxt "placeholder: Certificates"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Certificate.
 #: includes/class-ld-custom-label.php:352
 msgctxt "placeholder: Certificate"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Post Type Plural label.
 #: includes/class-ld-custom-label.php:362
 msgctxt "placeholder: Post Type Plural label"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Post Type Singular label.
 #: includes/class-ld-custom-label.php:368
 msgctxt "placeholder: Post Type Singular label"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Post Type slug.
 #: includes/class-ld-custom-label.php:377
 msgctxt "placeholder: Post Type slug"
 msgid "Back to %s"
-msgstr ""
+msgstr "Повернутися до %s"
 
 #. translators: placeholder: Course.
 #: includes/class-ld-custom-label.php:408
 msgctxt "placeholder: Course"
 msgid "Previous %s"
-msgstr ""
+msgstr "Попередній %s"
 
 #. translators: placeholder: Lesson.
 #: includes/class-ld-custom-label.php:416
 msgctxt "placeholder: Lesson"
 msgid "Previous %s"
-msgstr ""
+msgstr "Попередній %s"
 
 #. translators: placeholder: Topic.
 #: includes/class-ld-custom-label.php:424
 msgctxt "placeholder: Topic"
 msgid "Previous %s"
-msgstr ""
+msgstr "Попередня %s"
 
 #. translators: placeholder: Quiz.
 #: includes/class-ld-custom-label.php:432
 msgctxt "placeholder: Quiz"
 msgid "Previous %s"
-msgstr ""
+msgstr "Попередня %s"
 
 #. translators: placeholder: Question.
 #: includes/class-ld-custom-label.php:440
 msgctxt "placeholder: Question"
 msgid "Previous %s"
-msgstr ""
+msgstr "Попереднє %s"
 
 #. translators: placeholder: Transaction.
 #: includes/class-ld-custom-label.php:448
 msgctxt "placeholder: Transaction"
 msgid "Previous %s"
-msgstr ""
+msgstr "Попередня %s"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-custom-label.php:456
 msgctxt "placeholder: Group"
 msgid "Previous %s"
-msgstr ""
+msgstr "Попередня %s"
 
 #. translators: placeholder: Assignment.
 #: includes/class-ld-custom-label.php:464
 msgctxt "placeholder: Assignment"
 msgid "Previous %s"
-msgstr ""
+msgstr "Попереднє %s"
 
 #. translators: placeholder: Essay.
 #: includes/class-ld-custom-label.php:472
 msgctxt "placeholder: Essay"
 msgid "Previous %s"
-msgstr ""
+msgstr "Попереднє %s"
 
 #. translators: placeholder: Certificate.
 #: includes/class-ld-custom-label.php:480
 msgctxt "placeholder: Certificate"
 msgid "Previous %s"
-msgstr ""
+msgstr "Попередній %s"
 
 #. translators: placeholder: Post Type Singular label.
 #: includes/class-ld-custom-label.php:488
 msgctxt "placeholder: Post Type Singular label"
 msgid "Previous %s"
-msgstr ""
+msgstr "Попередня %s"
 
 #. translators: placeholder: Post Type slug.
 #: includes/class-ld-custom-label.php:496
 msgctxt "placeholder: Post Type slug"
 msgid "Previous %s"
-msgstr ""
+msgstr "Попередній %s"
 
 #. translators: placeholder: Course.
 #: includes/class-ld-custom-label.php:526
 msgctxt "placeholder: Course"
 msgid "Next %s"
-msgstr ""
+msgstr "Наступний %s"
 
 #. translators: placeholder: Lesson.
 #: includes/class-ld-custom-label.php:534
 msgctxt "placeholder: Lesson"
 msgid "Next %s"
-msgstr ""
+msgstr "Наступний %s"
 
 #. translators: placeholder: Topic.
 #: includes/class-ld-custom-label.php:542
 msgctxt "placeholder: Topic"
 msgid "Next %s"
-msgstr ""
+msgstr "Наступна %s"
 
 #. translators: placeholder: Quiz.
 #: includes/class-ld-custom-label.php:550
 msgctxt "placeholder: Quiz"
 msgid "Next %s"
-msgstr ""
+msgstr "Наступна %s"
 
 #. translators: placeholder: Question.
 #: includes/class-ld-custom-label.php:558
 msgctxt "placeholder: Question"
 msgid "Next %s"
-msgstr ""
+msgstr "Наступне %s"
 
 #. translators: placeholder: Transaction.
 #: includes/class-ld-custom-label.php:566
 msgctxt "placeholder: Transaction"
 msgid "Next %s"
-msgstr ""
+msgstr "Наступна %s"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-custom-label.php:574
 msgctxt "placeholder: Group"
 msgid "Next %s"
-msgstr ""
+msgstr "Наступна %s"
 
 #. translators: placeholder: Assignment.
 #: includes/class-ld-custom-label.php:582
 msgctxt "placeholder: Assignment"
 msgid "Next %s"
-msgstr ""
+msgstr "Наступне %s"
 
 #. translators: placeholder: Essay.
 #: includes/class-ld-custom-label.php:590
 msgctxt "placeholder: Essay"
 msgid "Next %s"
-msgstr ""
+msgstr "Наступне %s"
 
 #. translators: placeholder: Certificate.
 #: includes/class-ld-custom-label.php:598
 msgctxt "placeholder: Certificate"
 msgid "Next %s"
-msgstr ""
+msgstr "Наступний %s"
 
 #. translators: placeholder: Post Type Singular label.
 #: includes/class-ld-custom-label.php:606
 msgctxt "placeholder: Post Type Singular label"
 msgid "Next %s"
-msgstr ""
+msgstr "Наступний %s"
 
 #. translators: placeholder: Post Type slug.
 #: includes/class-ld-custom-label.php:614
 msgctxt "placeholder: Post Type slug"
 msgid "Next %s"
-msgstr ""
+msgstr "Наступний %s"
 
 #. translators: placeholder: Course.
 #: includes/class-ld-custom-label.php:646
 msgctxt "placeholder: Course"
 msgid "%s page"
-msgstr ""
+msgstr "Сторінка %s"
 
 #. translators: placeholder: Lesson.
 #: includes/class-ld-custom-label.php:654
 msgctxt "placeholder: Lesson"
 msgid "%s page"
-msgstr ""
+msgstr "Сторінка %s"
 
 #. translators: placeholder: Topic.
 #: includes/class-ld-custom-label.php:662
 msgctxt "placeholder: Topic"
 msgid "%s page"
-msgstr ""
+msgstr "Сторінка %s"
 
 #. translators: placeholder: Quiz.
 #: includes/class-ld-custom-label.php:670
 msgctxt "placeholder: Quiz"
 msgid "%s page"
-msgstr ""
+msgstr "Сторінка %s"
 
 #. translators: placeholder: Question.
 #: includes/class-ld-custom-label.php:678
 msgctxt "placeholder: Question"
 msgid "%s page"
-msgstr ""
+msgstr "Сторінка %s"
 
 #. translators: placeholder: Transaction.
 #: includes/class-ld-custom-label.php:686
 msgctxt "placeholder: Transaction"
 msgid "%s page"
-msgstr ""
+msgstr "Сторінка %s"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-custom-label.php:694
 msgctxt "placeholder: Group"
 msgid "%s page"
-msgstr ""
+msgstr "Сторінка %s"
 
 #. translators: placeholder: Assignment.
 #: includes/class-ld-custom-label.php:702
 msgctxt "placeholder: Assignment"
 msgid "%s page"
-msgstr ""
+msgstr "Сторінка %s"
 
 #. translators: placeholder: Essay.
 #: includes/class-ld-custom-label.php:710
 msgctxt "placeholder: Essay"
 msgid "%s page"
-msgstr ""
+msgstr "Сторінка %s"
 
 #. translators: placeholder: Certificate.
 #: includes/class-ld-custom-label.php:718
 msgctxt "placeholder: Certificate"
 msgid "%s page"
-msgstr ""
+msgstr "Сторінка %s"
 
 #. translators: placeholder: Post Type Singular label.
 #: includes/class-ld-custom-label.php:728
 msgctxt "placeholder: Post Type Singular label"
 msgid "%s page"
-msgstr ""
+msgstr "Сторінка %s"
 
 #. translators: placeholder: Post Type slug.
 #: includes/class-ld-custom-label.php:738
 msgctxt "placeholder: Post Type slug"
 msgid "%s page"
-msgstr ""
+msgstr "Сторінка %s"
 
 #. translators: placeholder: Course.
 #: includes/class-ld-gdpr.php:76 includes/class-ld-gdpr.php:445
 msgctxt "placeholder: Course"
 msgid "LearnDash LMS %s Assignments"
-msgstr ""
+msgstr "Призначення %s LearnDash LMS"
 
 #. translators: placeholder: Quiz.
 #: includes/class-ld-gdpr.php:82 includes/class-ld-gdpr.php:556
 msgctxt "placeholder: Quiz"
 msgid "LearnDash LMS %s Essays"
-msgstr ""
+msgstr "Есе %s LearnDash LMS"
 
 #: includes/class-ld-gdpr.php:145 includes/class-ld-gdpr.php:171
 #: includes/class-ld-gdpr.php:209 includes/class-ld-gdpr.php:839
@@ -11124,7 +11124,7 @@ msgstr ""
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-lesson-display-content.php:285
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-topic-display-content.php:283
 msgid "Mark Complete Button"
-msgstr ""
+msgstr "Кнопка позначити завершеним"
 
 #. translators: placeholder: lesson.
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-lesson-display-content.php:290
@@ -13269,7 +13269,7 @@ msgstr ""
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:190
 msgid "Mark Complete (Button)"
-msgstr ""
+msgstr "Позначити завершеним (Кнопка)"
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:191
 msgid "Label to replace \"Mark Complete\" button."
