@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: LearnDash LMS 3.2.3.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-core\n"
 "POT-Creation-Date: 2020-10-07T20:17:36+00:00\n"
-"PO-Revision-Date: 2021-01-17 17:35+0200\n"
+"PO-Revision-Date: 2021-01-17 18:48+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -2833,7 +2833,7 @@ msgstr ""
 #: includes/group/ld-groups-membership.php:275
 msgctxt "placeholder: Groups"
 msgid "All %s"
-msgstr ""
+msgstr "Усі групи"
 
 #. translators: placeholder: Courses.
 #: includes/admin/classes-posts-listings/class-learndash-admin-assignments-listing.php:71
@@ -2846,7 +2846,7 @@ msgstr ""
 #: includes/admin/classes-posts-listings/class-learndash-admin-users-listing.php:52
 msgctxt "placeholder: Courses"
 msgid "All %s"
-msgstr ""
+msgstr "Усі курси"
 
 #. translators: placeholder: Lessons.
 #: includes/admin/classes-posts-listings/class-learndash-admin-assignments-listing.php:85
@@ -2855,7 +2855,7 @@ msgstr ""
 #: includes/admin/classes-posts-listings/class-learndash-admin-topics-listing.php:58
 msgctxt "placeholder: Lessons"
 msgid "All %s"
-msgstr ""
+msgstr "Усі уроки"
 
 #. translators: placeholder: Topics.
 #: includes/admin/classes-posts-listings/class-learndash-admin-assignments-listing.php:99
@@ -2863,7 +2863,7 @@ msgstr ""
 #: includes/admin/classes-posts-listings/class-learndash-admin-quizzes-listing.php:78
 msgctxt "placeholder: Topics"
 msgid "All %s"
-msgstr "Усі %s"
+msgstr "Усі теми"
 
 #: includes/admin/classes-posts-listings/class-learndash-admin-assignments-listing.php:111
 #: includes/admin/classes-posts-listings/class-learndash-admin-essays-listing.php:134
@@ -3814,37 +3814,37 @@ msgstr "Клацніть для продовження"
 #: includes/class-ld-custom-label.php:200
 msgctxt "placeholder: Courses"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до курсів"
 
 #. translators: placeholder: Course.
 #: includes/class-ld-custom-label.php:206
 msgctxt "placeholder: Course"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до курсу"
 
 #. translators: placeholder: Lessons.
 #: includes/class-ld-custom-label.php:216
 msgctxt "placeholder: Lessons"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до уроків"
 
 #. translators: placeholder: Lesson.
 #: includes/class-ld-custom-label.php:222
 msgctxt "placeholder: Lesson"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до уроку"
 
 #. translators: placeholder: Topics.
 #: includes/class-ld-custom-label.php:232
 msgctxt "placeholder: Topics"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до тем"
 
 #. translators: placeholder: Topic.
 #: includes/class-ld-custom-label.php:238
 msgctxt "placeholder: Topic"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до теми"
 
 #. translators: placeholder: Quizzes.
 #: includes/class-ld-custom-label.php:249
@@ -3952,31 +3952,31 @@ msgstr "Повернутися до %s"
 #: includes/class-ld-custom-label.php:408
 msgctxt "placeholder: Course"
 msgid "Previous %s"
-msgstr "Попередній %s"
+msgstr "Попередній курс"
 
 #. translators: placeholder: Lesson.
 #: includes/class-ld-custom-label.php:416
 msgctxt "placeholder: Lesson"
 msgid "Previous %s"
-msgstr "Попередній %s"
+msgstr "Попередній урок"
 
 #. translators: placeholder: Topic.
 #: includes/class-ld-custom-label.php:424
 msgctxt "placeholder: Topic"
 msgid "Previous %s"
-msgstr "Попередня %s"
+msgstr "Попередня тема"
 
 #. translators: placeholder: Quiz.
 #: includes/class-ld-custom-label.php:432
 msgctxt "placeholder: Quiz"
 msgid "Previous %s"
-msgstr "Попередня %s"
+msgstr "Попередня вікторина"
 
 #. translators: placeholder: Question.
 #: includes/class-ld-custom-label.php:440
 msgctxt "placeholder: Question"
 msgid "Previous %s"
-msgstr "Попереднє %s"
+msgstr "Попереднє запитання"
 
 #. translators: placeholder: Transaction.
 #: includes/class-ld-custom-label.php:448
@@ -3988,7 +3988,7 @@ msgstr "Попередня %s"
 #: includes/class-ld-custom-label.php:456
 msgctxt "placeholder: Group"
 msgid "Previous %s"
-msgstr "Попередня %s"
+msgstr "Попередня група"
 
 #. translators: placeholder: Assignment.
 #: includes/class-ld-custom-label.php:464
@@ -4024,31 +4024,31 @@ msgstr "Попередній %s"
 #: includes/class-ld-custom-label.php:526
 msgctxt "placeholder: Course"
 msgid "Next %s"
-msgstr "Наступний %s"
+msgstr "Наступний курс"
 
 #. translators: placeholder: Lesson.
 #: includes/class-ld-custom-label.php:534
 msgctxt "placeholder: Lesson"
 msgid "Next %s"
-msgstr "Наступний %s"
+msgstr "Наступний урок"
 
 #. translators: placeholder: Topic.
 #: includes/class-ld-custom-label.php:542
 msgctxt "placeholder: Topic"
 msgid "Next %s"
-msgstr "Наступна %s"
+msgstr "Наступна тема"
 
 #. translators: placeholder: Quiz.
 #: includes/class-ld-custom-label.php:550
 msgctxt "placeholder: Quiz"
 msgid "Next %s"
-msgstr "Наступна %s"
+msgstr "Наступна вікторина"
 
 #. translators: placeholder: Question.
 #: includes/class-ld-custom-label.php:558
 msgctxt "placeholder: Question"
 msgid "Next %s"
-msgstr "Наступне %s"
+msgstr "Наступне запитання"
 
 #. translators: placeholder: Transaction.
 #: includes/class-ld-custom-label.php:566
@@ -4060,7 +4060,7 @@ msgstr "Наступна %s"
 #: includes/class-ld-custom-label.php:574
 msgctxt "placeholder: Group"
 msgid "Next %s"
-msgstr "Наступна %s"
+msgstr "Наступна група"
 
 #. translators: placeholder: Assignment.
 #: includes/class-ld-custom-label.php:582
@@ -10668,7 +10668,7 @@ msgstr ""
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-display-content.php:227
 msgctxt "placeholder: Course"
 msgid "%s Certificate"
-msgstr ""
+msgstr "Сертифікат курсу"
 
 #. translators: placeholder: Course.
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-display-content.php:242
@@ -10679,7 +10679,7 @@ msgstr ""
 #: themes/legacy/templates/course_content_shortcode.php:43
 msgctxt "placeholder: Course"
 msgid "%s Content"
-msgstr ""
+msgstr "Вміст курсу"
 
 #. translators: placeholder: Course.
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-display-content.php:249
@@ -10797,7 +10797,7 @@ msgstr ""
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-navigation-settings.php:68
 msgctxt "placeholder: Course"
 msgid "%s Progression"
-msgstr ""
+msgstr "Прогрес курсу"
 
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-navigation-settings.php:74
 msgid "Linear"
@@ -13058,7 +13058,7 @@ msgstr ""
 
 #: includes/settings/settings-sections/class-ld-settings-section-courses-management-display.php:186
 msgid "Steps Displayed"
-msgstr ""
+msgstr "Відображено кроків"
 
 #. translators: placeholder: Course.
 #: includes/settings/settings-sections/class-ld-settings-section-courses-management-display.php:201
@@ -13415,13 +13415,13 @@ msgstr ""
 #: includes/gutenberg/blocks/ld-course-info/index.js:235
 msgctxt "placeholder: Course"
 msgid "%s Progress"
-msgstr ""
+msgstr "Прогрес курсу"
 
 #. translators: placeholder: courses.
 #: includes/settings/settings-sections/class-ld-settings-section-general-per-page.php:152
 msgctxt "placeholder: courses"
 msgid "%s per page"
-msgstr ""
+msgstr "курсів на сторінку"
 
 #. translators: placeholder: Quiz.
 #: includes/settings/settings-sections/class-ld-settings-section-general-per-page.php:166
@@ -15306,7 +15306,7 @@ msgstr ""
 #: includes/settings/shortcodes-sections/course_complete.php:30
 msgctxt "placeholder: Course"
 msgid "%s Complete"
-msgstr ""
+msgstr "Завершити курс"
 
 #. translators: placeholders: course.
 #: includes/settings/shortcodes-sections/course_complete.php:36
@@ -15434,7 +15434,7 @@ msgstr ""
 #: includes/settings/shortcodes-sections/course_inprogress.php:14
 msgctxt "placeholder: Course"
 msgid "%s In Progress"
-msgstr ""
+msgstr "Курс в процесі"
 
 #. translators: placeholders: course.
 #: includes/settings/shortcodes-sections/course_inprogress.php:18
@@ -15537,7 +15537,7 @@ msgstr ""
 #: includes/gutenberg/blocks/ld-groupinfo/index.js:140
 msgctxt "placeholder: Group"
 msgid "%s Completed Percentage"
-msgstr ""
+msgstr "%s завершено"
 
 #. translators: placeholder: Group.
 #: includes/settings/shortcodes-sections/groupinfo.php:79
@@ -16078,13 +16078,13 @@ msgstr ""
 #: includes/settings/shortcodes-sections/ld_course_list.php:106
 msgctxt "placeholder: Course"
 msgid "Show %s Content"
-msgstr ""
+msgstr "Показати вміст курсу"
 
 #. translators: placeholder: course.
 #: includes/settings/shortcodes-sections/ld_course_list.php:108
 msgctxt "placeholder: course"
 msgid "shows %s content."
-msgstr ""
+msgstr "показує вміст курсу."
 
 #: includes/settings/shortcodes-sections/ld_course_list.php:136
 #: includes/settings/shortcodes-sections/ld_group_list.php:132
@@ -16382,13 +16382,13 @@ msgstr ""
 #: includes/settings/shortcodes-sections/ld_group_list.php:102
 msgctxt "placeholder: Group"
 msgid "Show %s Content"
-msgstr ""
+msgstr "Показати вміст групи"
 
 #. translators: placeholder: group.
 #: includes/settings/shortcodes-sections/ld_group_list.php:104
 msgctxt "placeholder: group"
 msgid "shows %s content."
-msgstr ""
+msgstr "показує вміст групи."
 
 #. translators: placeholder: Group.
 #: includes/settings/shortcodes-sections/ld_group_list.php:116
@@ -16554,13 +16554,13 @@ msgstr ""
 #: includes/settings/shortcodes-sections/ld_lesson_list.php:85
 msgctxt "placeholder: Lesson"
 msgid "Show %s Content"
-msgstr ""
+msgstr "Показати вміст уроку"
 
 #. translators: placeholder: lesson.
 #: includes/settings/shortcodes-sections/ld_lesson_list.php:87
 msgctxt "placeholders: lesson"
 msgid "show %s content."
-msgstr ""
+msgstr "показує вміст уроку."
 
 #. translators: placeholder: Lesson.
 #: includes/settings/shortcodes-sections/ld_lesson_list.php:99
@@ -16950,13 +16950,13 @@ msgstr ""
 #: includes/settings/shortcodes-sections/ld_topic_list.php:97
 msgctxt "placeholder: Topic"
 msgid "Show %s Content"
-msgstr ""
+msgstr "Показати вміст теми"
 
 #. translators: placeholder: topics.
 #: includes/settings/shortcodes-sections/ld_topic_list.php:99
 msgctxt "placeholder: topic"
 msgid "shows %s content."
-msgstr ""
+msgstr "показує зміст теми."
 
 #. translators: placeholder: Topic.
 #: includes/settings/shortcodes-sections/ld_topic_list.php:111
@@ -17404,7 +17404,7 @@ msgstr ""
 #: themes/legacy/templates/profile.php:129
 msgctxt "placeholder: completed steps, total steps"
 msgid "%1$d out of %2$d steps completed"
-msgstr ""
+msgstr "Завершено %1$d з %2$d кроків"
 
 #. translators: placeholder: Course.
 #: includes/shortcodes/ld_course_resume.php:69
@@ -17489,7 +17489,7 @@ msgstr ""
 #: includes/widgets/ld_course_info.php:222
 msgctxt "placeholder: Course"
 msgid "%s progress per page:"
-msgstr ""
+msgstr "Прогрес курсу на сторінку:"
 
 #: includes/widgets/ld_course_info.php:239
 msgid "Progress order by:"
@@ -17552,13 +17552,13 @@ msgstr ""
 #: includes/widgets/ld_course_progress.php:27
 msgctxt "placeholders: course"
 msgid "LearnDash %s progress bar"
-msgstr ""
+msgstr "Шкала прогресу LearnDash"
 
 #. translators: placeholder: Course.
 #: includes/widgets/ld_course_progress.php:31
 msgctxt "Course Progress Bar Label"
 msgid "%s Progress Bar"
-msgstr ""
+msgstr "Шкала прогресу курсу"
 
 #. translators: placeholders: Lessons, Course, Lesson.
 #: includes/widgets/ld_lesson.php:33
@@ -17722,12 +17722,12 @@ msgstr ""
 #: themes/ld30/includes/helpers.php:970
 msgctxt "In Progress item status"
 msgid "In Progress"
-msgstr ""
+msgstr "У процесі"
 
 #: themes/ld30/includes/helpers.php:976
 msgctxt "In Progress item status"
 msgid "Complete"
-msgstr ""
+msgstr "Завершено"
 
 #: themes/ld30/includes/helpers.php:980
 msgctxt "In Progress item status"
@@ -17955,13 +17955,13 @@ msgstr ""
 #: themes/ld30/templates/shortcodes/profile/course-row.php:59
 #: themes/ld30/templates/shortcodes/profile/course-row.php:61
 msgid "Expand"
-msgstr ""
+msgstr "Розгорнути"
 
 #: themes/ld30/templates/group/partials/course-row.php:63
 #: themes/ld30/templates/lesson/partials/row.php:285
 #: themes/ld30/templates/shortcodes/profile/course-row.php:59
 msgid "Collapse"
-msgstr ""
+msgstr "Згорнути"
 
 #: themes/ld30/templates/group/partials/row.php:36
 #: themes/ld30/templates/lesson/partials/row.php:38
@@ -17973,19 +17973,19 @@ msgstr ""
 #: themes/ld30/templates/lesson/listing.php:76
 msgctxt "Lesson Content Label"
 msgid "%s Content"
-msgstr ""
+msgstr "Зміст уроку"
 
 #. translators: placeholder: Lesson Complete Percentage
 #: themes/ld30/templates/lesson/listing.php:110
 msgctxt "Lesson Complete Percentage"
 msgid "%s%% Complete"
-msgstr ""
+msgstr "%s%% завершено"
 
 #. translators: placeholder: %1$s: Lesson Steps Complete %2$s: Total lesson steps
 #: themes/ld30/templates/lesson/listing.php:131
 msgctxt "%1$s: Lesson Steps Complete %2$s: Total lesson steps"
 msgid "%1$d/%2$d Steps"
-msgstr ""
+msgstr "%1$d/%2$d кроків"
 
 #: themes/ld30/templates/lesson/partials/row.php:55
 msgid "Please login to view sample content"
@@ -18174,7 +18174,7 @@ msgstr ""
 #: themes/ld30/templates/modules/progress.php:105
 msgctxt "placeholder: Progress percentage"
 msgid "%s%% Complete"
-msgstr ""
+msgstr "%s%% Завершено"
 
 #. translators: placeholder: completed steps, total steps, Courses
 #: themes/ld30/templates/modules/progress-group.php:70
@@ -18186,7 +18186,7 @@ msgstr ""
 #: themes/ld30/templates/modules/progress.php:94
 msgctxt "Placeholder: Lesson Progress"
 msgid "%s Progress"
-msgstr ""
+msgstr "Прогрес уроку"
 
 #. translators: Last activity date in infobar.
 #: themes/ld30/templates/modules/progress.php:124
@@ -18199,7 +18199,7 @@ msgstr ""
 #: themes/ld30/templates/shortcodes/profile/course-progress.php:31
 msgctxt "placeholder: completed steps, total steps"
 msgid "%1$d/%2$d Steps"
-msgstr ""
+msgstr "%1$d/%2$d кроків"
 
 #: themes/ld30/templates/modules/tabs.php:51
 #: themes/ld30/templates/modules/tabs_group.php:24
@@ -18257,7 +18257,7 @@ msgstr ""
 #: themes/ld30/templates/shortcodes/profile/course-progress.php:12
 msgctxt "Course Progress Overview Label"
 msgid "%s Progress"
-msgstr ""
+msgstr "Прогрес курсу"
 
 #. translators: Percentage of course completion
 #: themes/ld30/templates/shortcodes/profile/course-progress.php:22
@@ -18303,13 +18303,13 @@ msgstr ""
 #: themes/ld30/templates/shortcodes/user-status/course-row.php:57
 msgctxt "User Status Course Progress"
 msgid "%s%% Complete"
-msgstr ""
+msgstr "%s%% Завершено"
 
 #. translators: User Status Course Steps.
 #: themes/ld30/templates/shortcodes/user-status/course-row.php:59
 msgctxt "User Status Course Steps"
 msgid "%1$d/%2$d Steps"
-msgstr ""
+msgstr "%1$d/%2$d кроків"
 
 #. translators: User Status Course Since.
 #: themes/ld30/templates/shortcodes/user-status/course-row.php:64
@@ -18339,7 +18339,7 @@ msgstr ""
 
 #: themes/ld30/templates/widgets/navigation/lesson-row.php:121
 msgid "Expand Lesson"
-msgstr ""
+msgstr "Розгорнути урок"
 
 #: themes/legacy/includes/class-ld-themes-register.php:20
 msgid "Legacy"
@@ -18369,7 +18369,7 @@ msgstr ""
 #: themes/legacy/templates/course_info_shortcode.php:86
 msgctxt "placeholder: Course"
 msgid "%s progress details:"
-msgstr ""
+msgstr "Деталі прогресу курсу:"
 
 #. translators: placeholder: quizzes.
 #: themes/legacy/templates/course_info_shortcode.php:147
@@ -18451,7 +18451,7 @@ msgstr ""
 #: themes/legacy/templates/course_progress_rows.php:47
 msgctxt "placeholders: Course steps completed, Course steps total"
 msgid "Completed <strong>%1$d</strong> out of <strong>%2$d</strong> steps"
-msgstr ""
+msgstr "Завершено  <strong>%1$d</strong> з <strong>%2$d</strong> кроків"
 
 #. translators: placeholder: Group Access Date.
 #: themes/legacy/templates/course_progress_rows.php:52
@@ -18585,7 +18585,7 @@ msgstr ""
 #: themes/legacy/templates/profile.php:126
 msgctxt "placeholder: Course"
 msgid "%s Progress Overview"
-msgstr ""
+msgstr "Огляд прогресу курсу"
 
 #. translators: placeholder: percent complete
 #: themes/legacy/templates/profile.php:136
@@ -18943,7 +18943,7 @@ msgstr ""
 #: themes/legacy/templates/topic.php:45
 msgctxt "placeholder: Topic"
 msgid "%s Progress:"
-msgstr ""
+msgstr "Прогрес теми:"
 
 #: themes/legacy/templates/user_groups_shortcode.php:21
 msgid "Group Leader in : "
@@ -19056,7 +19056,7 @@ msgstr ""
 #: includes/gutenberg/blocks/ld-course-content/index.js:40
 msgctxt "placeholder: Course"
 msgid "LearnDash %s Content"
-msgstr ""
+msgstr "Вміст %s LearnDash"
 
 #. translators: placeholder: Course.
 #: includes/gutenberg/blocks/ld-course-content/index.js:42
@@ -19069,7 +19069,7 @@ msgstr ""
 #: includes/gutenberg/blocks/ld-lesson-list/index.js:246
 msgctxt "placeholder: Lessons"
 msgid "%s per page"
-msgstr ""
+msgstr "Уроків на сторінку"
 
 #. translators: placeholder: default per page.
 #: includes/gutenberg/blocks/ld-course-content/index.js:99
@@ -19175,7 +19175,7 @@ msgstr ""
 #: includes/gutenberg/blocks/ld-course-inprogress/index.js:38
 msgctxt "placeholder: Course"
 msgid "LearnDash %s In Progress"
-msgstr ""
+msgstr "Курс LearnDash у процесі"
 
 #. translators: placeholder: Course.
 #: includes/gutenberg/blocks/ld-course-inprogress/index.js:46
@@ -19224,7 +19224,7 @@ msgstr ""
 #: includes/gutenberg/blocks/ld-quiz-list/index.js:181
 #: includes/gutenberg/blocks/ld-topic-list/index.js:181
 msgid "Show Content"
-msgstr ""
+msgstr "Показати вміст"
 
 #. translators: placeholder: Courses.
 #: includes/gutenberg/blocks/ld-course-list/index.js:268
@@ -19349,7 +19349,7 @@ msgstr ""
 #: includes/gutenberg/blocks/ld-course-progress/index.js:46
 msgctxt "placeholders: Course"
 msgid "LearnDash %s Progress"
-msgstr ""
+msgstr "Прогрес курсу LearnDash"
 
 #. translators: placeholder: Course.
 #: includes/gutenberg/blocks/ld-course-progress/index.js:48
