@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: LearnDash LMS 3.2.3.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-core\n"
 "POT-Creation-Date: 2020-10-07T20:17:36+00:00\n"
-"PO-Revision-Date: 2021-01-17 19:15+0200\n"
+"PO-Revision-Date: 2021-01-17 19:30+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -1151,7 +1151,7 @@ msgstr "ПІДСУМОК:"
 #: includes/admin/class-learndash-admin-menus-tabs.php:1306
 msgctxt "Displayed when the post type, e.g. course, has no content"
 msgid "has no content yet."
-msgstr "ще не має вмісту."
+msgstr "ще не має змісту."
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1307
 msgctxt "Content type, e.g. lesson"
@@ -1348,11 +1348,11 @@ msgstr "Додайте заголовок до %s"
 #: includes/admin/class-learndash-admin-posts-edit.php:298
 msgctxt "placeholders: Post Type singular label"
 msgid "Add %s content."
-msgstr "Додайте вміст до %s."
+msgstr "Додайте зміст до %s."
 
 #: includes/admin/class-learndash-admin-posts-edit.php:394
 msgid "Associated Content"
-msgstr "Пов’язаний вміст"
+msgstr "Пов’язаний зміст"
 
 #. translators: placeholders: Quiz, Questions.
 #: includes/admin/class-learndash-admin-posts-edit.php:412
@@ -10679,7 +10679,7 @@ msgstr "Сертифікат курсу"
 #: themes/legacy/templates/course_content_shortcode.php:43
 msgctxt "placeholder: Course"
 msgid "%s Content"
-msgstr "Вміст курсу"
+msgstr "Зміст курсу"
 
 #. translators: placeholder: Course.
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-display-content.php:249
@@ -16078,13 +16078,13 @@ msgstr ""
 #: includes/settings/shortcodes-sections/ld_course_list.php:106
 msgctxt "placeholder: Course"
 msgid "Show %s Content"
-msgstr "Показати вміст курсу"
+msgstr "Показати зміст курсу"
 
 #. translators: placeholder: course.
 #: includes/settings/shortcodes-sections/ld_course_list.php:108
 msgctxt "placeholder: course"
 msgid "shows %s content."
-msgstr "показує вміст курсу."
+msgstr "показує зміст курсу."
 
 #: includes/settings/shortcodes-sections/ld_course_list.php:136
 #: includes/settings/shortcodes-sections/ld_group_list.php:132
@@ -16382,13 +16382,13 @@ msgstr ""
 #: includes/settings/shortcodes-sections/ld_group_list.php:102
 msgctxt "placeholder: Group"
 msgid "Show %s Content"
-msgstr "Показати вміст групи"
+msgstr "Показати зміст групи"
 
 #. translators: placeholder: group.
 #: includes/settings/shortcodes-sections/ld_group_list.php:104
 msgctxt "placeholder: group"
 msgid "shows %s content."
-msgstr "показує вміст групи."
+msgstr "показує зміст групи."
 
 #. translators: placeholder: Group.
 #: includes/settings/shortcodes-sections/ld_group_list.php:116
@@ -16554,13 +16554,13 @@ msgstr ""
 #: includes/settings/shortcodes-sections/ld_lesson_list.php:85
 msgctxt "placeholder: Lesson"
 msgid "Show %s Content"
-msgstr "Показати вміст уроку"
+msgstr "Показати зміст уроку"
 
 #. translators: placeholder: lesson.
 #: includes/settings/shortcodes-sections/ld_lesson_list.php:87
 msgctxt "placeholders: lesson"
 msgid "show %s content."
-msgstr "показує вміст уроку."
+msgstr "показує зміст уроку."
 
 #. translators: placeholder: Lesson.
 #: includes/settings/shortcodes-sections/ld_lesson_list.php:99
@@ -16950,13 +16950,13 @@ msgstr ""
 #: includes/settings/shortcodes-sections/ld_topic_list.php:97
 msgctxt "placeholder: Topic"
 msgid "Show %s Content"
-msgstr "Показати вміст теми"
+msgstr "Показати зміст теми"
 
 #. translators: placeholder: topics.
 #: includes/settings/shortcodes-sections/ld_topic_list.php:99
 msgctxt "placeholder: topic"
 msgid "shows %s content."
-msgstr "показує вміст теми."
+msgstr "показує зміст теми."
 
 #. translators: placeholder: Topic.
 #: includes/settings/shortcodes-sections/ld_topic_list.php:111
@@ -19056,7 +19056,7 @@ msgstr ""
 #: includes/gutenberg/blocks/ld-course-content/index.js:40
 msgctxt "placeholder: Course"
 msgid "LearnDash %s Content"
-msgstr "Вміст %s LearnDash"
+msgstr "Зміст курсу LearnDash"
 
 #. translators: placeholder: Course.
 #: includes/gutenberg/blocks/ld-course-content/index.js:42
@@ -19224,7 +19224,7 @@ msgstr ""
 #: includes/gutenberg/blocks/ld-quiz-list/index.js:181
 #: includes/gutenberg/blocks/ld-topic-list/index.js:181
 msgid "Show Content"
-msgstr "Показати вміст"
+msgstr "Показати зміст"
 
 #. translators: placeholder: Courses.
 #: includes/gutenberg/blocks/ld-course-list/index.js:268
