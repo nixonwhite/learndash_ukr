@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: LearnDash LMS 3.2.3.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-core\n"
 "POT-Creation-Date: 2021-01-14T11:51:04+00:00\n"
-"PO-Revision-Date: 2021-02-25 16:52+0200\n"
+"PO-Revision-Date: 2021-02-25 16:56+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -5564,7 +5564,7 @@ msgstr ""
 #: includes/rest-api/v2/class-ld-rest-price-types-controller.php:92
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-access-settings.php:376
 msgid "Open"
-msgstr ""
+msgstr "Відкритий"
 
 #: includes/class-ld-lms.php:1426
 #: includes/rest-api/v2/class-ld-rest-price-types-controller.php:130
@@ -5574,7 +5574,7 @@ msgstr ""
 #: themes/ld30/templates/modules/infobar/course.php:186
 #: themes/ld30/templates/modules/infobar/group.php:125
 msgid "Closed"
-msgstr ""
+msgstr "Закритий"
 
 #: includes/class-ld-lms.php:1427
 #: includes/rest-api/v2/class-ld-rest-price-types-controller.php:101
@@ -5583,18 +5583,18 @@ msgstr ""
 #: themes/ld30/templates/modules/infobar/course.php:186
 #: themes/ld30/templates/modules/infobar/group.php:125
 msgid "Free"
-msgstr ""
+msgstr "Безкоштовний"
 
 #: includes/class-ld-lms.php:1428
 msgid "Buy Now"
-msgstr ""
+msgstr "Придбати"
 
 #: includes/class-ld-lms.php:1429
 #: includes/rest-api/v2/class-ld-rest-price-types-controller.php:120
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-access-settings.php:405
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-group-access-settings.php:271
 msgid "Recurring"
-msgstr ""
+msgstr "Повторюваний"
 
 #: includes/class-ld-lms.php:1432
 msgid ""
@@ -5631,7 +5631,7 @@ msgstr ""
 #: includes/gutenberg/blocks/ld-courseinfo/index.js:115
 msgctxt "placeholder: Course"
 msgid "%s Price"
-msgstr ""
+msgstr "Ціна курсу"
 
 #. translators: placeholders: Course, Course.
 #: includes/class-ld-lms.php:1467
