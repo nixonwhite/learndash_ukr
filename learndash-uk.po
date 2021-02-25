@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: LearnDash LMS 3.2.3.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-core\n"
 "POT-Creation-Date: 2021-01-14T11:51:04+00:00\n"
-"PO-Revision-Date: 2021-02-25 16:16+0200\n"
+"PO-Revision-Date: 2021-02-25 16:40+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -5535,7 +5535,7 @@ msgstr ""
 #: includes/class-ld-lms.php:1403
 msgctxt "placeholder: Course"
 msgid "LearnDash %s Settings"
-msgstr ""
+msgstr "Налаштування курсу LearnDash"
 
 #. translators: placeholder: Course.
 #: includes/class-ld-lms.php:1409
@@ -5543,7 +5543,7 @@ msgstr ""
 #: themes/legacy/templates/course.php:108
 msgctxt "placeholder: Course"
 msgid "%s Materials"
-msgstr ""
+msgstr "Матеріали курсу"
 
 #. translators: placeholder: Course.
 #: includes/class-ld-lms.php:1412
@@ -5878,7 +5878,7 @@ msgstr ""
 #: themes/legacy/templates/lesson.php:76
 msgctxt "placeholder: Lesson"
 msgid "%s Materials"
-msgstr ""
+msgstr "Матеріали уроку"
 
 #. translators: placeholder: Lesson.
 #: includes/class-ld-lms.php:1695
@@ -6054,7 +6054,7 @@ msgstr ""
 #: themes/legacy/templates/topic.php:159
 msgctxt "placeholder: Topic"
 msgid "%s Materials"
-msgstr ""
+msgstr "Матеріали теми"
 
 #. translators: placeholder: Topic.
 #: includes/class-ld-lms.php:1850
@@ -6115,7 +6115,7 @@ msgstr ""
 #: themes/legacy/templates/quiz.php:79
 msgctxt "placeholder: Quiz"
 msgid "%s Materials"
-msgstr ""
+msgstr "Матеріали вікторини"
 
 #. translators: placeholder: Quiz.
 #: includes/class-ld-lms.php:2011
@@ -7505,7 +7505,7 @@ msgstr ""
 #: themes/ld30/templates/focus/masthead.php:284
 #: includes/gutenberg/blocks/ld-login/index.js:244
 msgid "Logout"
-msgstr ""
+msgstr "Вийти"
 
 #: includes/ld-misc-functions.php:2037 themes/ld30/includes/shortcodes.php:60
 #: themes/ld30/includes/shortcodes.php:186
@@ -7514,7 +7514,7 @@ msgstr ""
 #: themes/ld30/templates/modules/login-modal.php:47
 #: includes/gutenberg/blocks/ld-login/index.js:240
 msgid "Login"
-msgstr ""
+msgstr "Увійти"
 
 #: includes/ld-users.php:1050
 #: includes/settings/settings-sections/class-ld-settings-section-quizzes-email-settings.php:172
@@ -11720,6 +11720,8 @@ msgid ""
 "List and display support materials for the %s. This is visible to all users "
 "(including non-enrollees) by default."
 msgstr ""
+"Показувати допоміжні матеріали для курсу. За замовчуванням це бачать усі "
+"користувачі (включаючи не зареєстрованих)."
 
 #. translators: placeholder: Course.
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-display-content.php:205
@@ -11751,7 +11753,7 @@ msgstr ""
 #: themes/ld30/templates/modules/tabs.php:51
 #: themes/ld30/templates/modules/tabs_group.php:24
 msgid "Materials"
-msgstr ""
+msgstr "Матеріали"
 
 #. translators: placeholder: Course.
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-display-content.php:265
@@ -12079,7 +12081,7 @@ msgstr ""
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-group-display-content.php:147
 msgctxt "placeholder: Group"
 msgid "%s Materials"
-msgstr ""
+msgstr "Матеріали групи"
 
 #. translators: placeholder: group.
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-group-display-content.php:152
@@ -18876,7 +18878,7 @@ msgstr ""
 
 #: includes/settings/shortcodes-sections/student.php:22
 msgid "Student"
-msgstr ""
+msgstr "Студент"
 
 #. translators: placeholder: course.
 #: includes/settings/shortcodes-sections/student.php:25
@@ -18907,7 +18909,7 @@ msgstr ""
 #: includes/settings/shortcodes-sections/usermeta.php:38
 #: includes/gutenberg/blocks/ld-usermeta/index.js:75
 msgid "Field"
-msgstr ""
+msgstr "Поле"
 
 #. translators: placeholder: Groups.
 #: includes/settings/shortcodes-sections/user_groups.php:24
@@ -18925,7 +18927,7 @@ msgstr ""
 
 #: includes/settings/shortcodes-sections/visitor.php:22
 msgid "Visitor"
-msgstr ""
+msgstr "Відвідувач"
 
 #. translators: placeholder: course.
 #: includes/settings/shortcodes-sections/visitor.php:25
@@ -18939,25 +18941,25 @@ msgstr ""
 #: includes/shortcodes/ld_course_expire_status.php:46
 msgctxt "placeholder: Course"
 msgid "%s access will expire on:"
-msgstr ""
+msgstr "Доступ до курсу завершиться:"
 
 #. translators: placeholder: Course.
 #: includes/shortcodes/ld_course_expire_status.php:48
 msgctxt "placeholder: Course"
 msgid "%s access expired on:"
-msgstr ""
+msgstr "Доступ до курсу завершено:"
 
 #: includes/shortcodes/ld_course_list.php:1092
 #: themes/ld30/templates/shortcodes/course-listing.php:873
 #: themes/legacy/templates/quiz/partials/show_quiz_result_box.php:220
 #: themes/legacy/templates/quiz_result_categories_email.php:15
 msgid "Categories"
-msgstr ""
+msgstr "Категорії"
 
 #: includes/shortcodes/ld_course_list.php:1094
 #: themes/ld30/templates/shortcodes/course-listing.php:875
 msgid "Select category"
-msgstr ""
+msgstr "Оберіть категорію"
 
 #. translators: placeholder: LD Category label
 #: includes/shortcodes/ld_course_list.php:1127
@@ -18981,7 +18983,7 @@ msgstr "Завершено %1$d з %2$d кроків"
 #: includes/shortcodes/ld_course_resume.php:69
 msgctxt "placeholder: Course"
 msgid "Resume %s"
-msgstr ""
+msgstr "Продовжити курс"
 
 #: includes/shortcodes/ld_group_user_list.php:55
 #: includes/shortcodes/ld_group_user_list.php:64
@@ -18990,11 +18992,11 @@ msgstr ""
 
 #: includes/shortcodes/ld_group_user_list.php:91
 msgid "No users."
-msgstr ""
+msgstr "Немає користувачів."
 
 #: includes/widgets/ld_certificates.php:33
 msgid "Displays a list of Certificates"
-msgstr ""
+msgstr "Відображає список сертифікатів"
 
 #: includes/widgets/ld_certificates.php:127 includes/widgets/ld_course.php:128
 #: includes/widgets/ld_course_info.php:178
@@ -19004,13 +19006,13 @@ msgstr ""
 #: includes/widgets/ld_transactions.php:126
 #: themes/ld30/includes/helpers.php:1478
 msgid "Title:"
-msgstr ""
+msgstr "Заголовок:"
 
 #. translators: placeholder: Course.
 #: includes/widgets/ld_course.php:36
 msgctxt "placeholder: Course"
 msgid "Displays a list of %s"
-msgstr ""
+msgstr "Відображає список курсів"
 
 #. translators: placeholder: Course.
 #: includes/widgets/ld_course_info.php:24
@@ -19024,7 +19026,7 @@ msgstr ""
 #: includes/widgets/ld_course_info.php:28
 msgctxt "placeholder: Course"
 msgid "%s Information"
-msgstr ""
+msgstr "Інформація про курс"
 
 #: includes/widgets/ld_course_info.php:182
 #: themes/ld30/includes/helpers.php:1484
@@ -19034,7 +19036,7 @@ msgstr ""
 #: includes/widgets/ld_course_info.php:189
 #: themes/ld30/includes/helpers.php:1492
 msgid "Registered per page:"
-msgstr ""
+msgstr "Зареєстрованих на сторінку:"
 
 #. translators: placeholder: default per page.
 #: includes/widgets/ld_course_info.php:195
@@ -19091,7 +19093,7 @@ msgstr ""
 msgctxt "placeholder: Course"
 msgid ""
 "LearnDash - %s Navigation. Shows lessons and topics on the current course."
-msgstr ""
+msgstr "LearnDash - Навігація курсу. Показує уроки та теми поточного курсу."
 
 #. translators: placeholder: Course.
 #: includes/widgets/ld_course_navigation.php:28
@@ -19162,7 +19164,7 @@ msgstr ""
 
 #: themes/ld30/includes/class-ld-settings-section-theme-ld30.php:125
 msgid "Progress Color"
-msgstr ""
+msgstr "Колір прогресу"
 
 #: themes/ld30/includes/class-ld-settings-section-theme-ld30.php:126
 msgid ""
@@ -19222,7 +19224,7 @@ msgstr ""
 
 #: themes/ld30/includes/class-ld-settings-section-theme-ld30.php:190
 msgid "Login & Registration"
-msgstr ""
+msgstr "Вхід та реєстрація"
 
 #. translators: placeholder: Link to Registration article.
 #: themes/ld30/includes/class-ld-settings-section-theme-ld30.php:193
@@ -19234,21 +19236,21 @@ msgstr ""
 #. translators: placeholder: Link to Registration article.
 #: themes/ld30/includes/class-ld-settings-section-theme-ld30.php:194
 msgid "registration"
-msgstr ""
+msgstr "реєстрація"
 
 #: themes/ld30/includes/class-ld-settings-section-theme-ld30.php:198
 msgid "Default registration used"
-msgstr ""
+msgstr "Використовується реєстрація за замовчуванням"
 
 #. translators: placeholder: courses.
 #: themes/ld30/includes/class-ld-settings-section-theme-ld30.php:201
 msgctxt "placeholder: courses"
 msgid "Customized registration enabled for LearnDash %s"
-msgstr ""
+msgstr "Налаштовано користувацьку реєстрацію для курсу LearnDash"
 
 #: themes/ld30/includes/class-ld-settings-section-theme-ld30.php:209
 msgid "Logo Upload"
-msgstr ""
+msgstr "Завантажити логотип"
 
 #: themes/ld30/includes/class-ld-settings-section-theme-ld30.php:210
 msgid ""
@@ -19277,9 +19279,9 @@ msgstr ""
 #: themes/ld30/includes/helpers.php:64 themes/ld30/includes/helpers.php:3088
 msgid "week"
 msgid_plural "weeks"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "тиждень"
+msgstr[1] "тижні"
+msgstr[2] "тижнів"
 
 #. translators: placeholder: Date when lesson will be available.
 #: themes/ld30/includes/helpers.php:764
@@ -19356,27 +19358,27 @@ msgstr ""
 
 #: themes/ld30/includes/login-register-functions.php:501
 msgid "Registration username exists."
-msgstr ""
+msgstr "Ім'я користувача для реєстрації вже існує."
 
 #: themes/ld30/includes/login-register-functions.php:502
 msgid "Registration email exists."
-msgstr ""
+msgstr "Електронна пошта для реєстрації вже існує."
 
 #: themes/ld30/includes/login-register-functions.php:503
 msgid "Registration requires a username."
-msgstr ""
+msgstr "Реєстрація вимагає ім'я користувача."
 
 #: themes/ld30/includes/login-register-functions.php:504
 msgid "Registration requires a valid email."
-msgstr ""
+msgstr "Реєстрація вимагає правильну адресу електронної пошти."
 
 #: themes/ld30/includes/login-register-functions.php:505
 msgid "Invalid username."
-msgstr ""
+msgstr "Невірне ім'я користувача."
 
 #: themes/ld30/includes/login-register-functions.php:506
 msgid "Invalid email."
-msgstr ""
+msgstr "Невірний пароль."
 
 #: themes/ld30/templates/assignment/listing.php:129
 msgid "You have assignments awaiting approval."
@@ -19436,11 +19438,11 @@ msgstr ""
 
 #: themes/ld30/templates/assignment/upload.php:119
 msgid "Browse"
-msgstr ""
+msgstr "Огляд"
 
 #: themes/ld30/templates/assignment/upload.php:120
 msgid "No file selected"
-msgstr ""
+msgstr "Файл не вибрано"
 
 #: themes/ld30/templates/course.php:78 themes/ld30/templates/group.php:60
 msgid "You've earned a certificate!"
@@ -19489,25 +19491,25 @@ msgstr ""
 
 #: themes/ld30/templates/focus/comments_list.php:82
 msgid "Reply"
-msgstr ""
+msgstr "Відповісти"
 
 #: themes/ld30/templates/focus/index.php:115
 msgid "Pages:"
-msgstr ""
+msgstr "Сторінки:"
 
 #: themes/ld30/templates/focus/index.php:188
 msgid "No content found at this address"
-msgstr ""
+msgstr "За цією адресою нічого не знайдено"
 
 #: themes/ld30/templates/focus/masthead.php:70
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 #. translators: Focus mode welcome placeholder.
 #: themes/ld30/templates/focus/masthead.php:193
 msgctxt "Focus mode welcome placeholder"
 msgid "Hello, %s!"
-msgstr ""
+msgstr "Вітаємо, %s!"
 
 #. translators: Placeholder for course home link.
 #: themes/ld30/templates/focus/masthead.php:244
@@ -19581,22 +19583,22 @@ msgstr ""
 #: themes/ld30/templates/modules/infobar/course.php:126
 #: themes/ld30/templates/modules/infobar/group.php:92
 msgid "Current Status"
-msgstr ""
+msgstr "Поточний статус"
 
 #: themes/ld30/templates/modules/infobar/course.php:128
 #: themes/ld30/templates/modules/infobar/group.php:94
 msgid "Enroll in this course to get access"
-msgstr ""
+msgstr "Зареєструйтеся на цей курс, щоб отримати доступ"
 
 #: themes/ld30/templates/modules/infobar/course.php:128
 #: themes/ld30/templates/modules/infobar/group.php:94
 msgid "Not Enrolled"
-msgstr ""
+msgstr "Не зареєстровано"
 
 #: themes/ld30/templates/modules/infobar/course.php:170
 #: themes/ld30/templates/modules/infobar/group.php:114
 msgid "Price"
-msgstr ""
+msgstr "Ціна"
 
 #. translators: Recurring duration message.
 #: themes/ld30/templates/modules/infobar/course.php:196
@@ -19629,6 +19631,8 @@ msgctxt "placeholder: course"
 msgid ""
 "Accessing this %s requires a login. Please enter your credentials below!"
 msgstr ""
+"Для доступу до цього курсу потрібно увійти. Будь ласка, введіть ваші дані "
+"нижче!"
 
 #: themes/ld30/templates/modules/login-modal.php:84
 msgid "Incorrect username or password. Please try again"
@@ -19645,11 +19649,11 @@ msgstr "Забули пароль?"
 #: themes/ld30/templates/modules/login-modal.php:194
 #: themes/ld30/templates/modules/login-modal.php:421
 msgid "Register"
-msgstr ""
+msgstr "Зареєструватися"
 
 #: themes/ld30/templates/modules/login-modal.php:200
 msgid "Don't have an account? Register one!"
-msgstr ""
+msgstr "Немає облікового запису? Зареєструйтеся!"
 
 #: themes/ld30/templates/modules/login-modal.php:277
 msgid "Registration successful, please check your email to set your password."
@@ -19659,11 +19663,11 @@ msgstr ""
 
 #: themes/ld30/templates/modules/login-modal.php:306
 msgid "Register an Account"
-msgstr ""
+msgstr "Зареєструвати обліковий запис"
 
 #: themes/ld30/templates/modules/login-modal.php:420
 msgid "Registration confirmation will be emailed to you."
-msgstr ""
+msgstr "Підтвердження реєстрації надійде електронною поштою."
 
 #. translators: placehodes: %1$s: Course, %2$s: course access points, %3$s: user course points
 #: themes/ld30/templates/modules/messages/course-points.php:26
@@ -19738,7 +19742,7 @@ msgstr ""
 #: themes/ld30/templates/modules/progress-group.php:50
 msgctxt "Placeholder: Group"
 msgid "%s Progress"
-msgstr ""
+msgstr "Прогрес групи"
 
 #. translators: placeholder: Progress percentage
 #: themes/ld30/templates/modules/progress-group.php:61
@@ -19768,9 +19772,6 @@ msgstr ""
 #. translators: placeholders: completed steps, total steps.
 #: themes/ld30/templates/modules/progress.php:130
 #: themes/ld30/templates/shortcodes/profile/course-progress.php:31
-#, fuzzy
-#| msgctxt "%1$s: Lesson Steps Complete %2$s: Total lesson steps"
-#| msgid "%1$d/%2$d Steps"
 msgctxt "placeholders: completed steps, total steps"
 msgid "%1$d/%2$d Steps"
 msgstr "%1$d/%2$d кроків"
@@ -19897,11 +19898,11 @@ msgstr ""
 
 #: themes/ld30/templates/shortcodes/user_groups_shortcode.php:27
 msgid "Group Leader"
-msgstr ""
+msgstr "Лідер групи"
 
 #: themes/ld30/templates/shortcodes/user_groups_shortcode.php:63
 msgid "Assigned Group(s)"
-msgstr ""
+msgstr "Призначені групи"
 
 #. translators: placeholder: Course Navigation Home Label
 #: themes/ld30/templates/widgets/course-navigation.php:64
@@ -19913,7 +19914,7 @@ msgstr ""
 #: themes/legacy/templates/course_navigation_admin.php:375
 #: themes/legacy/templates/course_navigation_widget.php:49
 msgid "Return to"
-msgstr ""
+msgstr "Повернутися до"
 
 #: themes/ld30/templates/widgets/navigation/lesson-row.php:122
 msgid "Expand Lesson"
@@ -19927,7 +19928,7 @@ msgstr ""
 #: themes/legacy/templates/course.php:47
 msgctxt "Course Status Label"
 msgid "%s Status:"
-msgstr ""
+msgstr "%s Статус:"
 
 #: themes/legacy/templates/course_details_admin.php:28
 msgid "Set Enrolled Date:"
