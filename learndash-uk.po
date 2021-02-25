@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: LearnDash LMS 3.2.3.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-core\n"
 "POT-Creation-Date: 2021-01-14T11:51:04+00:00\n"
-"PO-Revision-Date: 2021-02-07 20:11+0200\n"
+"PO-Revision-Date: 2021-02-25 16:16+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -1102,25 +1102,25 @@ msgstr "Показати все"
 #: includes/admin/class-learndash-admin-menus-tabs.php:1209
 msgctxt "placeholders: Lesson"
 msgid "Start adding your first %1$s"
-msgstr "Почніть із додавання свого першого %1$s"
+msgstr "Почніть із додавання свого першого уроку"
 
 #. translators: placeholders: Quiz.
 #: includes/admin/class-learndash-admin-menus-tabs.php:1214
 msgctxt "placeholders: Quiz"
 msgid "Start adding your first %1$s"
-msgstr "Почніть із додавання свого першого %1$s"
+msgstr "Почніть із додавання своєї першої вікторини"
 
 #. translators: placeholders: Topic.
 #: includes/admin/class-learndash-admin-menus-tabs.php:1219
 msgctxt "placeholders: Topic"
 msgid "Start adding your first %1$s"
-msgstr "Почніть із додавання свого першого %1$s"
+msgstr "Почніть із додавання своєї першої теми"
 
 #. translators: placeholders: Question.
 #: includes/admin/class-learndash-admin-menus-tabs.php:1224
 msgctxt "placeholders: Question"
 msgid "Start adding your first %1$s"
-msgstr "Почніть із додавання свого першого %1$s"
+msgstr "Почніть із додавання свого першого запитання"
 
 #. translators: placeholders: Lessons.
 #: includes/admin/class-learndash-admin-menus-tabs.php:1231
@@ -1149,7 +1149,7 @@ msgstr "Усі доступні %1$s були додані."
 #: includes/admin/class-learndash-admin-menus-tabs.php:1250
 msgctxt "Lesson, Topic, Quiz or Question"
 msgid "Start adding your first"
-msgstr "Почніть із додавання свого першого"
+msgstr "Почніть із додавання свого першого запитання або вікторини"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:1251
 msgctxt "Builder - Refresh list of  Lessons, Topics, Quizzes or Questions"
@@ -2257,7 +2257,7 @@ msgstr "%1$s: %2$d з %3$d таблиць ProQuiz"
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-courses.php:48
 msgctxt "placeholder: Course"
 msgid "Upgrade User %s Data"
-msgstr "Оновити дані користувачів %s"
+msgstr "Оновити дані користувачів курсу"
 
 #. translators: placeholder: Course, course.
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-user-meta-courses.php:57
@@ -3467,7 +3467,7 @@ msgstr ""
 #: includes/admin/onboarding-templates/onboarding-groups.php:42
 msgctxt "placeholder: Group"
 msgid "Add your first %s"
-msgstr ""
+msgstr "Додайте свою першу групу"
 
 #. translators: placeholder: Group.
 #: includes/admin/onboarding-templates/onboarding-groups.php:56
@@ -3508,7 +3508,7 @@ msgstr ""
 #: includes/admin/onboarding-templates/onboarding-sfwd-certificates.php:34
 msgctxt "Button to add a certificate"
 msgid "Add your first Certificate"
-msgstr ""
+msgstr "Додайте свій перший сертифікат"
 
 #: includes/admin/onboarding-templates/onboarding-sfwd-certificates.php:39
 msgid "Need more help?"
@@ -3544,7 +3544,7 @@ msgstr ""
 #: includes/admin/onboarding-templates/onboarding-sfwd-courses.php:44
 msgctxt "placeholder: Course"
 msgid "Add your first %s"
-msgstr ""
+msgstr "Додайте свій перший курс"
 
 #. translators: Courses.
 #: includes/admin/onboarding-templates/onboarding-sfwd-courses.php:58
@@ -3587,7 +3587,7 @@ msgstr ""
 #: includes/admin/onboarding-templates/onboarding-sfwd-lessons.php:43
 msgctxt "placeholder: Lesson"
 msgid "Add your first %s"
-msgstr ""
+msgstr "Додайте свій перший урок"
 
 #. translators: placeholder: %1$s: Lessons, %2$s: Course
 #: includes/admin/onboarding-templates/onboarding-sfwd-lessons.php:57
@@ -6884,7 +6884,7 @@ msgstr ""
 #: includes/course/ld-course-functions.php:541
 msgctxt "placeholder: Course"
 msgid "Your access to this %s has expired."
-msgstr ""
+msgstr "Ваш доступ до цього курсу закінчився"
 
 #. translators: placeholder: Course.
 #: includes/course/ld-course-info-widget.php:278
@@ -7230,7 +7230,7 @@ msgstr ""
 #: includes/ld-autoupdate.php:661
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:387
 msgid "Your license is valid."
-msgstr ""
+msgstr "Ваша ліцензія дійсна."
 
 #: includes/ld-autoupdate.php:678
 msgid "Email:"
@@ -7415,7 +7415,7 @@ msgstr ""
 #: includes/ld-misc-functions.php:460 includes/ld-misc-functions.php:466
 #: includes/lib/paypal/enhanced-paypal-shortcodes.php:274
 msgid "Complete Your Purchase"
-msgstr ""
+msgstr "Завершіть своє замовлення"
 
 #: includes/ld-misc-functions.php:503
 msgid "Use Paypal"
@@ -7830,7 +7830,7 @@ msgstr ""
 
 #: includes/lib/wp-pro-quiz/lib/controller/WpProQuiz_Controller_Toplist.php:309
 msgid "Your name can not exceed 15 characters."
-msgstr ""
+msgstr "Ваше ім'я не може містити більше 15 символів."
 
 #: includes/lib/wp-pro-quiz/lib/controller/WpProQuiz_Controller_Toplist.php:320
 msgid "You entered wrong captcha code."
@@ -13987,12 +13987,12 @@ msgstr ""
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:393
 msgctxt "License email"
 msgid "Enter your Email here"
-msgstr ""
+msgstr "Введіть свою електронну адресу"
 
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:397
 msgctxt "License key"
 msgid "Enter your license key here"
-msgstr ""
+msgstr "Введіть свій ліцензійний ключ"
 
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:401
 msgid "Save license"
@@ -14130,7 +14130,7 @@ msgstr ""
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:657
 msgctxt "placeholder: Courses."
 msgid "Selling Your %s"
-msgstr ""
+msgstr "Продаж ваших курсів."
 
 #. translators: placeholders: Courses, courses.
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:670
@@ -19613,7 +19613,7 @@ msgstr ""
 #: themes/ld30/templates/modules/infobar/course.php:273
 #: themes/ld30/templates/modules/infobar/group.php:184
 msgid "Login to Enroll"
-msgstr ""
+msgstr "Увійдіть для реєстрації"
 
 #: themes/ld30/templates/modules/infobar/course.php:296
 msgid "This course is currently closed"
@@ -19640,7 +19640,7 @@ msgstr ""
 
 #: themes/ld30/templates/modules/login-modal.php:155
 msgid "Lost Your Password?"
-msgstr ""
+msgstr "Забули пароль?"
 
 #: themes/ld30/templates/modules/login-modal.php:194
 #: themes/ld30/templates/modules/login-modal.php:421
@@ -19654,6 +19654,8 @@ msgstr ""
 #: themes/ld30/templates/modules/login-modal.php:277
 msgid "Registration successful, please check your email to set your password."
 msgstr ""
+"Реєстрація успішна. Будь ласка, перевірте свою електронну адресу, щоб "
+"встановити пароль."
 
 #: themes/ld30/templates/modules/login-modal.php:306
 msgid "Register an Account"
