@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: LearnDash LMS 3.2.3.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-core\n"
 "POT-Creation-Date: 2021-01-14T11:51:04+00:00\n"
-"PO-Revision-Date: 2021-02-25 16:56+0200\n"
+"PO-Revision-Date: 2021-02-26 12:06+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -75,7 +75,6 @@ msgstr "Сторонні розробники"
 
 #. translators: placeholder Author.
 #: includes/admin/class-learndash-admin-addons-list-table.php:277
-#, fuzzy
 msgid "By %s"
 msgstr "%s"
 
@@ -6237,318 +6236,285 @@ msgid "Add New"
 msgstr ""
 
 #: includes/class-ld-lms.php:2135
-#, fuzzy
-#| msgctxt "placeholder: Course"
-#| msgid "%s Certificate"
 msgctxt "Add New Item Certificate Label"
 msgid "Add New Certificate"
-msgstr "Сертифікат курсу"
+msgstr "Додати новий сертифікат"
 
 #: includes/class-ld-lms.php:2136
-#, fuzzy
-#| msgctxt "placeholder: Course"
-#| msgid "%s Certificate"
 msgctxt "Edit Certificate Label"
 msgid "Edit Certificate"
-msgstr "Сертифікат курсу"
+msgstr "Редагувати сертифікат"
 
 #: includes/class-ld-lms.php:2137
-#, fuzzy
-#| msgctxt "placeholder: Course"
-#| msgid "%s Certificate"
 msgctxt "Edit Certificate Label"
 msgid "New Certificate"
-msgstr "Сертифікат курсу"
+msgstr "Новий сертифікат"
 
 #: includes/class-ld-lms.php:2138
-#, fuzzy
-#| msgctxt "Certificates Menu Label"
-#| msgid "Certificates"
 msgctxt "All Certificates Label"
 msgid "Certificates"
 msgstr "Сертифікати"
 
 #: includes/class-ld-lms.php:2139
-#, fuzzy
-#| msgctxt "placeholder: Course"
-#| msgid "%s Certificate"
 msgctxt "View Certificate Label"
 msgid "View Certificate"
-msgstr "Сертифікат курсу"
+msgstr "Переглянути сертифікат"
 
 #: includes/class-ld-lms.php:2140
-#, fuzzy
-#| msgctxt "Certificates Menu Label"
-#| msgid "Certificates"
 msgctxt "View Certificates Label"
 msgid "View Certificates"
-msgstr "Сертифікати"
+msgstr "Переглянути сертифікати"
 
 #: includes/class-ld-lms.php:2141
-#, fuzzy
-#| msgctxt "Certificates Menu Label"
-#| msgid "Certificates"
 msgctxt "View Certificates Label"
 msgid "Search Certificates"
-msgstr "Сертифікати"
+msgstr "Шукати сертифікати"
 
 #: includes/class-ld-lms.php:2142
-#, fuzzy
-#| msgctxt "Certificates Menu Label"
-#| msgid "Certificates"
 msgctxt "No Certificates found Label"
 msgid "No Certificates found"
-msgstr "Сертифікати"
+msgstr "Сертифікатів не знайдено"
 
 #: includes/class-ld-lms.php:2143
 msgctxt "No Certificates found in Trash Label"
 msgid "No Certificates found in Trash"
-msgstr ""
+msgstr "У смітнику сертифікатів не знайдено"
 
 #: includes/class-ld-lms.php:2146
-#, fuzzy
-#| msgctxt "Certificates Menu Label"
-#| msgid "Certificates"
 msgctxt "Certificate Published Label"
 msgid "Certificate Published"
-msgstr "Сертифікати"
+msgstr "Опублікований сертифікат"
 
 #: includes/class-ld-lms.php:2147
 msgctxt "Certificate Published Privately Label"
 msgid "Certificate Published Privately"
-msgstr ""
+msgstr "Приватно опублікований сертифікат"
 
 #: includes/class-ld-lms.php:2148
 msgctxt "Certificate Reverted to Draft Label"
 msgid "Certificate Reverted to Draft"
-msgstr ""
+msgstr "Сертифікат повернуто до чернетки"
 
 #: includes/class-ld-lms.php:2149
-#, fuzzy
-#| msgctxt "Certificates Menu Label"
-#| msgid "Certificates"
 msgctxt "Certificate Scheduled Label"
 msgid "Certificate Scheduled"
-msgstr "Сертифікати"
+msgstr "Заплановані сертифікати"
 
 #: includes/class-ld-lms.php:2150
-#, fuzzy
-#| msgctxt "Certificates Menu Label"
-#| msgid "Certificates"
 msgctxt "Certificate Updated Label"
 msgid "Certificate Updated"
-msgstr "Сертифікати"
+msgstr "Оновлені сертифікати"
 
 #: includes/class-ld-lms.php:2154
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:1034
 #: themes/ld30/templates/shortcodes/profile.php:112
 msgid "Certificates"
-msgstr ""
+msgstr "Сертифікати"
 
 #: includes/class-ld-lms.php:2159
 msgid "LearnDash Certificates Options"
-msgstr ""
+msgstr "Налаштування сертифікатів LearnDash"
 
 #: includes/class-ld-lms.php:2181
 msgctxt "Add New Group Label"
 msgid "Add New"
-msgstr ""
+msgstr "Додати новий"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2183
 msgctxt "placeholder: Group"
 msgid "Add New %s"
-msgstr ""
+msgstr "Додати нову групу"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2187
 msgctxt "placeholder: Group"
 msgid "New %s"
-msgstr ""
+msgstr "Нова група"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2190 includes/group/ld-groups-membership.php:601
 msgctxt "placeholder: Group"
 msgid "View %s"
-msgstr ""
+msgstr "Переглянути групу"
 
 #. translators: placeholder: Groups.
 #: includes/class-ld-lms.php:2192
 msgctxt "placeholder: Groups"
 msgid "View %s"
-msgstr ""
+msgstr "Переглянути групи"
 
 #. translators: placeholder: Groups.
 #: includes/class-ld-lms.php:2196
 msgctxt "placeholder: Groups"
 msgid "No %s found"
-msgstr ""
+msgstr "Груп не знайдено"
 
 #. translators: placeholder: Groups.
 #: includes/class-ld-lms.php:2198
 msgctxt "placeholder: Groups"
 msgid "No %s found in Trash"
-msgstr ""
+msgstr "У смітнику груп не знайдено"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2202
 msgctxt "placeholder: Group"
 msgid "%s Published"
-msgstr ""
+msgstr "Опубліковані групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2204
 msgctxt "placeholder: Group"
 msgid "%s Published Privately"
-msgstr ""
+msgstr "Приватно опубліковані групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2206
 msgctxt "placeholder: Group"
 msgid "%s Reverted to Draft"
-msgstr ""
+msgstr "Групу повернуто до чернетки"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2208
 msgctxt "placeholder: Group"
 msgid "%s Scheduled"
-msgstr ""
+msgstr "Заплановані групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2210
 msgctxt "placeholder: Group"
 msgid "%s Updated"
-msgstr ""
+msgstr "Оновлена група"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2256 includes/class-ld-lms.php:2276
 #: includes/settings/settings-sections/class-ld-settings-section-groups-taxonomies.php:91
 msgctxt "placeholder: Group"
 msgid "%s Categories"
-msgstr ""
+msgstr "Категорії групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2258
 msgctxt "placeholder: Group"
 msgid "%s Category"
-msgstr ""
+msgstr "Категорія групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2260
 msgctxt "placeholder: Group"
 msgid "Search %s Categories"
-msgstr ""
+msgstr "Шукати категорії групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2262
 msgctxt "placeholder: Group"
 msgid "All %s Categories"
-msgstr ""
+msgstr "Усі категорії групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2264
 msgctxt "placeholder: Group"
 msgid "Parent %s Category"
-msgstr ""
+msgstr "Батьківська категорія групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2266
 msgctxt "placeholder: Group"
 msgid "Parent %s Category:"
-msgstr ""
+msgstr "Батьківська категорія групи:"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2268
 msgctxt "placeholder: Group"
 msgid "Edit %s Category"
-msgstr ""
+msgstr "Редагувати категорію групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2270
 msgctxt "placeholder: Group"
 msgid "Update %s Category"
-msgstr ""
+msgstr "Оновити категорію групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2272
 msgctxt "placeholder: Group"
 msgid "Add New %s Category"
-msgstr ""
+msgstr "Додати нову категорію групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2274
 msgctxt "placeholder: Group"
 msgid "New %s Category Name"
-msgstr ""
+msgstr "Нова назва категорії групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2294 includes/class-ld-lms.php:2314
 #: includes/settings/settings-sections/class-ld-settings-section-groups-taxonomies.php:109
 msgctxt "placeholder: Group"
 msgid "%s Tags"
-msgstr ""
+msgstr "Теги групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2296
 msgctxt "placeholder: Group"
 msgid "%s Tag"
-msgstr ""
+msgstr "Тег групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2298
 msgctxt "placeholder: Group"
 msgid "Search %s Tag"
-msgstr ""
+msgstr "Шукати тег групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2300
 msgctxt "placeholder: Group"
 msgid "All %s Tags"
-msgstr ""
+msgstr "Усі теги групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2302
 msgctxt "placeholder: Group"
 msgid "Parent %s Tag"
-msgstr ""
+msgstr "Батьківський тег групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2304
 msgctxt "placeholder: Group"
 msgid "Parent %s Tag:"
-msgstr ""
+msgstr "Батьківський тег групи:"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2306
 msgctxt "placeholder: Group"
 msgid "Edit %s Tag"
-msgstr ""
+msgstr "Редагувати тег групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2308
 msgctxt "placeholder: Group"
 msgid "Update %s Tag"
-msgstr ""
+msgstr "Оновити тег групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2310
 msgctxt "placeholder: Group"
 msgid "Add New %s Tag"
-msgstr ""
+msgstr "Додати новий тег групи"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-lms.php:2312
 msgctxt "placeholder: Group"
 msgid "New %s Tag Name"
-msgstr ""
+msgstr "Нова назва тегу групи"
 
 #: includes/class-ld-lms.php:2393
 msgid "Transactions"
-msgstr ""
+msgstr "Транзакції"
 
 #: includes/class-ld-lms.php:2397
 msgid "LearnDash Transactions Options"
-msgstr ""
+msgstr "Налаштування транзакцій LearnDash"
 
 #: includes/class-ld-lms.php:2410
 msgid "Click the Export button below to export the transaction list."
@@ -6557,19 +6523,19 @@ msgstr ""
 #: includes/class-ld-lms.php:3080
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-lesson-access-settings.php:173
 msgid "day(s)"
-msgstr ""
+msgstr "день(-ні)"
 
 #: includes/class-ld-lms.php:3081
 msgid "week(s)"
-msgstr ""
+msgstr "тиждень(-ні)"
 
 #: includes/class-ld-lms.php:3082
 msgid "month(s)"
-msgstr ""
+msgstr "місяць(-і)"
 
 #: includes/class-ld-lms.php:3083
 msgid "year(s)"
-msgstr ""
+msgstr "рік(роки)"
 
 #: includes/class-ld-lms.php:3244 includes/class-ld-lms.php:3291
 #: includes/class-ld-lms.php:3586 includes/class-ld-lms.php:3602
@@ -6587,89 +6553,89 @@ msgstr ""
 #: includes/class-ld-lms.php:3343
 msgctxt "placeholder: Course"
 msgid "Export User %s Data &raquo;"
-msgstr ""
+msgstr "Експортувати дані користувачів курсу &raquo;"
 
 #. translators: placeholder: Quiz.
 #: includes/class-ld-lms.php:3644
 msgctxt "placeholder: Quiz"
 msgid "Export %s Data &raquo;"
-msgstr ""
+msgstr "Експортувати дані вікторини &raquo;"
 
 #: includes/class-ld-lms.php:3735
 msgid "Export &raquo;"
-msgstr ""
+msgstr "Експортувати &raquo;"
 
 #: includes/class-ld-lms.php:3792 includes/class-ld-lms.php:3915
 #: includes/class-ld-lms.php:4540
 msgid "-- Select a Certificate --"
-msgstr ""
+msgstr "-- Оберіть сертифікат --"
 
 #. translators: placeholders: Lesson, Topic.
 #: includes/class-ld-lms.php:3891 includes/class-ld-semper-fi-module.php:670
 msgctxt "placeholders: Lesson, Topic"
 msgid "-- Select a %1$s or %2$s --"
-msgstr ""
+msgstr "Оберіть урок або тему"
 
 #: includes/class-ld-lms.php:3927
 msgid "-- Select Settings --"
-msgstr ""
+msgstr "-- Оберіть налаштування --"
 
 #. translators: placeholder: Quiz.
 #: includes/class-ld-lms.php:3999
 msgctxt "placeholder: Quiz"
 msgid "-- Select a %s --"
-msgstr ""
+msgstr "-- Оберіть вікторину --"
 
 #. translators: placeholders: Lesson, Topic.
 #: includes/class-ld-lms.php:4203
 msgctxt "placeholders: Lesson, Topic"
 msgid "Search or select a %1$s or %2$s…"
-msgstr ""
+msgstr "Шукати або обрати урок або тему..."
 
 #. translators: placeholders: Lesson, Topic Labels.
 #: includes/class-ld-lms.php:4212
 msgctxt "placeholders: Lesson, Topic Labels"
 msgid "Select a %1$s or %2$s"
-msgstr ""
+msgstr "Оберіть урок або заголовок теми"
 
 #. translators: placeholder: Lesson.
 #: includes/class-ld-lms.php:4224
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-topic-access-settings.php:165
 msgctxt "placeholder: Lesson"
 msgid "Search or select a %s…"
-msgstr ""
+msgstr "Шукати або обрати урок..."
 
 #. translators: placeholder: Lesson.
 #: includes/class-ld-lms.php:4232 includes/class-ld-lms.php:4354
 msgctxt "placeholder: Lesson"
 msgid "Select a %s"
-msgstr ""
+msgstr "Обрати урок"
 
 #. translators: placeholder: Lesson.
 #: includes/class-ld-lms.php:4346
 msgctxt "placeholder: Lesson"
 msgid "Search or select a %s"
-msgstr ""
+msgstr "Шукати або обрати урок"
 
 #. translators: placeholder: Course.
 #: includes/class-ld-lms.php:4606
 msgctxt "Select a Course Label"
 msgid "-- Select a %s --"
-msgstr ""
+msgstr "-- Оберіть заголовок курсу --"
 
 #. translators: placeholder: method name.
 #: includes/class-ld-semper-fi-module.php:222
 msgctxt "placeholder: method name"
 msgid "Method %s doesn't exist"
-msgstr ""
+msgstr "Методу %s не існує"
 
 #: includes/class-ld-semper-fi-module.php:665
 msgid "LearnDash Categories"
-msgstr ""
+msgstr "Категорії LearnDash "
 
 #: includes/class-ld-semper-fi-module.php:666
 msgid "Loading..."
-msgstr ""
+msgstr "Завантаження..."
 
 #: includes/class-ld-semper-fi-module.php:672
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-access-settings.php:82
@@ -6697,22 +6663,22 @@ msgstr ""
 
 #: includes/class-ld-semper-fi-module.php:1183
 msgid "loading"
-msgstr ""
+msgstr "завантаження"
 
 #: includes/class-ld-semper-fi-module.php:1197
 #: includes/settings/class-ld-settings-fields.php:298
 msgid "Required"
-msgstr ""
+msgstr "Обов'язково"
 
 #: includes/class-ld-semper-fi-module.php:1339
 msgid "Upload Image"
-msgstr ""
+msgstr "Завантажити зображення"
 
 #: includes/class-ld-semper-fi-module.php:1397
 #: includes/settings/settings-fields/class-ld-settings-fields-date-entry.php:78
 #: themes/legacy/templates/course_details_admin.php:51
 msgid "Month"
-msgstr ""
+msgstr "Місяць"
 
 #. translators: placeholder: month number, month text.
 #: includes/class-ld-semper-fi-module.php:1403
@@ -6720,43 +6686,40 @@ msgstr ""
 #: themes/legacy/templates/course_details_admin.php:60
 msgctxt "placeholder: month number, month text"
 msgid "%1$s-%2$s"
-msgstr ""
+msgstr "%1$s-%2$s"
 
 #: includes/class-ld-semper-fi-module.php:1407
 #: includes/settings/settings-fields/class-ld-settings-fields-date-entry.php:88
 #: themes/legacy/templates/course_details_admin.php:64
 msgid "Day"
-msgstr ""
+msgstr "День"
 
 #: includes/class-ld-semper-fi-module.php:1408
 #: includes/settings/settings-fields/class-ld-settings-fields-date-entry.php:89
 #: themes/legacy/templates/course_details_admin.php:66
 msgid "Year"
-msgstr ""
+msgstr "Рік"
 
 #: includes/class-ld-semper-fi-module.php:1409
 #: includes/settings/settings-fields/class-ld-settings-fields-date-entry.php:90
 #: includes/settings/settings-fields/class-ld-settings-fields-timer-entry.php:61
 #: themes/legacy/templates/course_details_admin.php:68
 msgid "Hour"
-msgstr ""
+msgstr "Година"
 
 #: includes/class-ld-semper-fi-module.php:1410
 #: includes/settings/settings-fields/class-ld-settings-fields-date-entry.php:91
 #: includes/settings/settings-fields/class-ld-settings-fields-timer-entry.php:63
 #: themes/legacy/templates/course_details_admin.php:70
 msgid "Minute"
-msgstr ""
+msgstr "Хвилина"
 
 #. translators: placeholders: Month Name, Day number, Year number, Hour number, Minute number.
 #: includes/class-ld-semper-fi-module.php:1414
 #: includes/settings/settings-fields/class-ld-settings-fields-date-entry.php:95
 #: themes/legacy/templates/course_details_admin.php:74
-#, fuzzy
-#| msgctxt "placeholders: Quiz, Questions"
-#| msgid "%1$s %2$s %3$s"
 msgid "%1$s %2$s, %3$s @ %4$s:%5$s"
-msgstr "%1$s %2$s %3$s"
+msgstr "%1$s %2$s, %3$s @ %4$s:%5$s"
 
 #. translators: placeholders: Max size, Option Name.
 #: includes/class-ld-semper-fi-module.php:1439
@@ -6884,7 +6847,7 @@ msgstr ""
 #: includes/course/ld-course-functions.php:541
 msgctxt "placeholder: Course"
 msgid "Your access to this %s has expired."
-msgstr "Ваш доступ до цього курсу закінчився"
+msgstr "Ваш доступ до цього курсу закінчився."
 
 #. translators: placeholder: Course.
 #: includes/course/ld-course-info-widget.php:278
@@ -14132,7 +14095,7 @@ msgstr ""
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:657
 msgctxt "placeholder: Courses."
 msgid "Selling Your %s"
-msgstr "Продаж ваших курсів."
+msgstr "Продаж ваших курсів"
 
 #. translators: placeholders: Courses, courses.
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:670
