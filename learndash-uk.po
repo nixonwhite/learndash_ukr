@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: LearnDash LMS 3.2.3.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-core\n"
 "POT-Creation-Date: 2021-01-14T11:51:04+00:00\n"
-"PO-Revision-Date: 2021-02-26 12:06+0200\n"
+"PO-Revision-Date: 2021-02-26 16:40+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -669,7 +669,7 @@ msgstr "Сертифікати"
 #: includes/admin/class-learndash-admin-menus-tabs.php:345
 msgctxt "Assignments Menu Label"
 msgid "Assignments"
-msgstr "Призначення"
+msgstr "Завдання"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:356
 msgctxt "Submitted Essays Menu Label"
@@ -2295,7 +2295,7 @@ msgstr ""
 #: includes/ld-assignment-uploads.php:886
 #: includes/settings/settings-sections/class-ld-settings-section-general-rest-api.php:412
 msgid "Assignment"
-msgstr "Призначення"
+msgstr "Завдання"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:67
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:129
@@ -2433,7 +2433,7 @@ msgstr "Бали не ввімкнено"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:223
 msgid "Assignment Points."
-msgstr "Бали призначення."
+msgstr "Бали завдання."
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:239
 #: includes/admin/classes-posts-listings/class-learndash-admin-essays-listing.php:473
@@ -2446,7 +2446,7 @@ msgstr "Завантажити"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:241
 msgid "Assignment download."
-msgstr "Завантажити призначення."
+msgstr "Завантажити завдання."
 
 #. translators: placeholder: Course.
 #: includes/admin/classes-posts-edits/class-learndash-admin-course-edit.php:114
@@ -4023,87 +4023,81 @@ msgstr "Повернутися до теми"
 #: includes/class-ld-custom-label.php:249
 msgctxt "placeholder: Quizzes"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до вікторин"
 
 #. translators: placeholder: Quiz.
 #: includes/class-ld-custom-label.php:255
 msgctxt "placeholder: Quiz"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до вікторини"
 
 #. translators: placeholder: Questions.
 #: includes/class-ld-custom-label.php:265
 msgctxt "placeholder: Questions"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до запитань"
 
 #. translators: placeholder: Question.
 #: includes/class-ld-custom-label.php:271
 msgctxt "placeholder: Question"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до запитання"
 
 #. translators: placeholder: Transactions.
 #: includes/class-ld-custom-label.php:282
 msgctxt "placeholder: Transactions"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до транзакцій"
 
 #. translators: placeholder: Transaction.
 #: includes/class-ld-custom-label.php:288
 msgctxt "placeholder: Transaction"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до транзакції"
 
 #. translators: placeholder: Groups.
 #: includes/class-ld-custom-label.php:298
 msgctxt "placeholder: Groups"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до груп"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-custom-label.php:304
 msgctxt "placeholder: Group"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до групи"
 
 #. translators: placeholder: Assignments.
 #: includes/class-ld-custom-label.php:314
 msgctxt "placeholder: Assignments"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до завдань"
 
 #. translators: placeholder: Assignment.
 #: includes/class-ld-custom-label.php:320
 msgctxt "placeholder: Assignment"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до завдання"
 
 #. translators: placeholder: Essays.
 #: includes/class-ld-custom-label.php:330
 msgctxt "placeholder: Essays"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до есе"
 
 #. translators: placeholder: Essay.
 #: includes/class-ld-custom-label.php:336
 msgctxt "placeholder: Essay"
 msgid "Back to %s"
-msgstr "Повернутися до %s"
+msgstr "Повернутися до есе"
 
 #: includes/class-ld-custom-label.php:344
-#, fuzzy
-#| msgctxt "Certificates Menu Label"
-#| msgid "Certificates"
 msgid "Back to Certificates"
-msgstr "Сертифікати"
+msgstr "Повернутися до сертифікатів"
 
 #: includes/class-ld-custom-label.php:346
-#, fuzzy
-#| msgctxt "placeholder: Course"
-#| msgid "%s Certificate"
 msgid "Back to Certificate"
-msgstr "Сертифікат курсу"
+msgstr "Повернутися до сертифікату"
 
 #. translators: placeholder: Post Type Plural label.
 #: includes/class-ld-custom-label.php:354
@@ -4157,7 +4151,7 @@ msgstr "Попереднє запитання"
 #: includes/class-ld-custom-label.php:440
 msgctxt "placeholder: Transaction"
 msgid "Previous %s"
-msgstr "Попередня %s"
+msgstr "Попередня транзакція"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-custom-label.php:448
@@ -4169,20 +4163,17 @@ msgstr "Попередня група"
 #: includes/class-ld-custom-label.php:456
 msgctxt "placeholder: Assignment"
 msgid "Previous %s"
-msgstr "Попереднє %s"
+msgstr "Попереднє завдання"
 
 #. translators: placeholder: Essay.
 #: includes/class-ld-custom-label.php:464
 msgctxt "placeholder: Essay"
 msgid "Previous %s"
-msgstr "Попереднє %s"
+msgstr "Попереднє есе"
 
 #: includes/class-ld-custom-label.php:470
-#, fuzzy
-#| msgctxt "placeholder: Course"
-#| msgid "%s Certificate"
 msgid "Previous Certificate"
-msgstr "Сертифікат курсу"
+msgstr "Попередній сертифікат"
 
 #. translators: placeholder: Post Type Singular label.
 #: includes/class-ld-custom-label.php:476
@@ -4230,7 +4221,7 @@ msgstr "Наступне запитання"
 #: includes/class-ld-custom-label.php:554
 msgctxt "placeholder: Transaction"
 msgid "Next %s"
-msgstr "Наступна %s"
+msgstr "Наступна транзакція"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-custom-label.php:562
@@ -4242,20 +4233,17 @@ msgstr "Наступна група"
 #: includes/class-ld-custom-label.php:570
 msgctxt "placeholder: Assignment"
 msgid "Next %s"
-msgstr "Наступне %s"
+msgstr "Наступне завдання"
 
 #. translators: placeholder: Essay.
 #: includes/class-ld-custom-label.php:578
 msgctxt "placeholder: Essay"
 msgid "Next %s"
-msgstr "Наступне %s"
+msgstr "Наступне есе"
 
 #: includes/class-ld-custom-label.php:584
-#, fuzzy
-#| msgctxt "placeholder: Course"
-#| msgid "%s Certificate"
 msgid "Next Certificate"
-msgstr "Сертифікат курсу"
+msgstr "Наступний сертифікат"
 
 #. translators: placeholder: Post Type Singular label.
 #: includes/class-ld-custom-label.php:590
@@ -4273,62 +4261,59 @@ msgstr "Наступний %s"
 #: includes/class-ld-custom-label.php:630
 msgctxt "placeholder: Course"
 msgid "%s page"
-msgstr "Сторінка %s"
+msgstr "Сторінка курсу"
 
 #. translators: placeholder: Lesson.
 #: includes/class-ld-custom-label.php:638
 msgctxt "placeholder: Lesson"
 msgid "%s page"
-msgstr "Сторінка %s"
+msgstr "Сторінка уроку"
 
 #. translators: placeholder: Topic.
 #: includes/class-ld-custom-label.php:646
 msgctxt "placeholder: Topic"
 msgid "%s page"
-msgstr "Сторінка %s"
+msgstr "Сторінка теми"
 
 #. translators: placeholder: Quiz.
 #: includes/class-ld-custom-label.php:654
 msgctxt "placeholder: Quiz"
 msgid "%s page"
-msgstr "Сторінка %s"
+msgstr "Сторінка вікторини"
 
 #. translators: placeholder: Question.
 #: includes/class-ld-custom-label.php:662
 msgctxt "placeholder: Question"
 msgid "%s page"
-msgstr "Сторінка %s"
+msgstr "Сторінка запитання"
 
 #. translators: placeholder: Transaction.
 #: includes/class-ld-custom-label.php:670
 msgctxt "placeholder: Transaction"
 msgid "%s page"
-msgstr "Сторінка %s"
+msgstr "Сторінка транзакції"
 
 #. translators: placeholder: Group.
 #: includes/class-ld-custom-label.php:678
 msgctxt "placeholder: Group"
 msgid "%s page"
-msgstr "Сторінка %s"
+msgstr "Сторінка групи"
 
 #. translators: placeholder: Assignment.
 #: includes/class-ld-custom-label.php:686
 msgctxt "placeholder: Assignment"
 msgid "%s page"
-msgstr "Сторінка %s"
+msgstr "Сторінка завдання"
 
 #. translators: placeholder: Essay.
 #: includes/class-ld-custom-label.php:694
 msgctxt "placeholder: Essay"
 msgid "%s page"
-msgstr "Сторінка %s"
+msgstr "Сторінка есе"
 
 #: includes/class-ld-custom-label.php:700
-#, fuzzy
-#| msgctxt "Certificates Menu Label"
-#| msgid "Certificates"
 msgid "Certificate page"
-msgstr "Сертифікати"
+msgstr "Сторінка сертифікату"
 
 #. translators: placeholder: Post Type Singular label.
 #: includes/class-ld-custom-label.php:708
@@ -4346,13 +4331,13 @@ msgstr "Сторінка %s"
 #: includes/class-ld-gdpr.php:76 includes/class-ld-gdpr.php:439
 msgctxt "placeholder: Course"
 msgid "LearnDash LMS %s Assignments"
-msgstr "Призначення %s LearnDash LMS"
+msgstr "Завдання курсу LearnDash LMS"
 
 #. translators: placeholder: Quiz.
 #: includes/class-ld-gdpr.php:82 includes/class-ld-gdpr.php:544
 msgctxt "placeholder: Quiz"
 msgid "LearnDash LMS %s Essays"
-msgstr "Есе %s LearnDash LMS"
+msgstr "Есе курсу LearnDash LMS"
 
 #: includes/class-ld-gdpr.php:145 includes/class-ld-gdpr.php:171
 #: includes/class-ld-gdpr.php:209 includes/class-ld-gdpr.php:827
@@ -4453,7 +4438,7 @@ msgstr ""
 
 #: includes/class-ld-gdpr.php:405
 msgid "Assignment URL"
-msgstr ""
+msgstr "URL адреса завдання"
 
 #: includes/class-ld-gdpr.php:509
 msgid "Essay URL"
@@ -5911,52 +5896,57 @@ msgstr ""
 #: themes/ld30/templates/assignment/upload.php:96
 #: themes/legacy/templates/learndash_lesson_assignment_upload_form.php:53
 msgid "Upload Assignment"
-msgstr ""
+msgstr "Завантажити завдання"
 
 #: includes/class-ld-lms.php:1726 includes/class-ld-lms.php:1891
 msgid "Check this if you want to make it mandatory to upload assignment"
 msgstr ""
+"Поставте прапорець, якщо ви хочете зробити обов’язковим завантаження завдання"
 
 #: includes/class-ld-lms.php:1731 includes/class-ld-lms.php:1896
 msgid "Auto Approve Assignment"
-msgstr ""
+msgstr "Автоматично затверджувати завдання"
 
 #: includes/class-ld-lms.php:1733 includes/class-ld-lms.php:1898
 msgid "Check this if you want to auto-approve the uploaded assignment"
 msgstr ""
+"Поставте прапорець, якщо ви хочете автоматично затверджувати завантаження "
+"завдання"
 
 #: includes/class-ld-lms.php:1738 includes/class-ld-lms.php:1903
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-lesson-display-content.php:348
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-topic-display-content.php:346
 msgid "Limit number of uploaded files"
-msgstr ""
+msgstr "Обмежити кількість файлів для завантаження"
 
 #: includes/class-ld-lms.php:1740 includes/class-ld-lms.php:1905
 msgid "Default is 1"
-msgstr ""
+msgstr "За замовчуванням 1"
 
 #: includes/class-ld-lms.php:1741 includes/class-ld-lms.php:1906
 msgid ""
 "Enter the maximum number of assignment uploads allowed. Default is 1. Use 0 "
 "to unlimited."
 msgstr ""
+"Введіть максимальну кількість дозволених завантажень завдання. За "
+"замовчуванням 1. Використовуйте 0 для необмеженого."
 
 #: includes/class-ld-lms.php:1748 includes/class-ld-lms.php:1750
 #: includes/class-ld-lms.php:1913 includes/class-ld-lms.php:1915
 msgid "Allow Student to Delete own Assignment(s)"
-msgstr ""
+msgstr "Дозволити студенту видаляти власні завдання"
 
 #: includes/class-ld-lms.php:1756 includes/class-ld-lms.php:1920
 msgid "Award Points for Assignment"
-msgstr ""
+msgstr "Призначити бали за завдання"
 
 #: includes/class-ld-lms.php:1758 includes/class-ld-lms.php:1922
 msgid "Allow this assignment to be assigned points when it is approved."
-msgstr ""
+msgstr "Дозволити цьому завданню призначати бали після його затвердження."
 
 #: includes/class-ld-lms.php:1763 includes/class-ld-lms.php:1927
 msgid "Set Number of Points for Assignment"
-msgstr ""
+msgstr "Встановіть число балів за завдання"
 
 #: includes/class-ld-lms.php:1766 includes/class-ld-lms.php:1930
 msgid "Assign the max amount of points someone can earn for this assignment."
@@ -6631,7 +6621,7 @@ msgstr "Методу %s не існує"
 
 #: includes/class-ld-semper-fi-module.php:665
 msgid "LearnDash Categories"
-msgstr "Категорії LearnDash "
+msgstr "Категорії LearnDash"
 
 #: includes/class-ld-semper-fi-module.php:666
 msgid "Loading..."
