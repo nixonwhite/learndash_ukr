@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: LearnDash LMS 3.2.3.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-core\n"
 "POT-Creation-Date: 2021-01-14T11:51:04+00:00\n"
-"PO-Revision-Date: 2021-02-27 15:54+0200\n"
+"PO-Revision-Date: 2021-02-27 15:56+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -19754,7 +19754,7 @@ msgstr "Прогрес уроку"
 #: themes/ld30/templates/modules/progress.php:124
 msgctxt "Last activity date in infobar"
 msgid "Last activity on %s"
-msgstr ""
+msgstr "Остання активність: %s"
 
 #. translators: placeholders: completed steps, total steps.
 #: themes/ld30/templates/modules/progress.php:130
