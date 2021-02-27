@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: LearnDash LMS 3.2.3.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-core\n"
 "POT-Creation-Date: 2021-01-14T11:51:04+00:00\n"
-"PO-Revision-Date: 2021-02-27 14:32+0200\n"
+"PO-Revision-Date: 2021-02-27 15:54+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -1435,7 +1435,7 @@ msgstr "Додайте заголовок до типу запису"
 #: includes/admin/class-learndash-admin-posts-edit.php:298
 msgctxt "placeholders: Post Type singular label"
 msgid "Add %s content."
-msgstr "Додайте зміст до запису"
+msgstr "Додайте зміст до запису."
 
 #: includes/admin/class-learndash-admin-posts-edit.php:394
 msgid "Associated Content"
@@ -2489,7 +2489,7 @@ msgstr "Ми не змогли знайти запитання есе для ц�
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:174
 msgctxt "placeholder: Quiz."
 msgid "Essay %s"
-msgstr "Есе вікторини."
+msgstr "Есе вікторини"
 
 #. translators: placeholder: Quiz.
 #: includes/admin/classes-posts-edits/class-learndash-admin-essay-edit.php:180
@@ -19774,25 +19774,25 @@ msgstr ""
 #: themes/legacy/templates/profile.php:209
 msgctxt "Pending Certificate Status Label"
 msgid "Pending"
-msgstr ""
+msgstr "В очуванні"
 
 #. translators: placeholder: courses.
 #: themes/ld30/templates/shortcodes/course_info_shortcode.php:41
 #: themes/legacy/templates/course_info_shortcode.php:33
 msgctxt "placeholder: courses"
 msgid "You are registered for the following %s"
-msgstr ""
+msgstr "Ви зареєстровані на наступні курси"
 
 #: themes/ld30/templates/shortcodes/profile.php:92
 #: themes/legacy/templates/profile.php:54
 msgid "Edit profile"
-msgstr ""
+msgstr "Редагувати профіль"
 
 #. translators: Profile Course Content Label
 #: themes/ld30/templates/shortcodes/profile.php:159
 msgctxt "Profile Course Content Label"
 msgid "Your %s"
-msgstr ""
+msgstr "Ваші курси"
 
 #. translators: placeholder: Profile Search Prompt Label.
 #: themes/ld30/templates/shortcodes/profile.php:170
@@ -19804,12 +19804,12 @@ msgstr ""
 #: themes/ld30/templates/shortcodes/profile/assignment-row.php:50
 msgctxt "placeholder: commentd count"
 msgid "%d Comments"
-msgstr ""
+msgstr "%d коментарів"
 
 #. translators: placeholder: %1$s: Current points, %2$s: Maximum points
 #: themes/ld30/templates/shortcodes/profile/assignment-row.php:90
 msgid "%1$s/%2$s Points Awarded "
-msgstr ""
+msgstr "%1$s/%2$s балів присуджено"
 
 #: themes/ld30/templates/shortcodes/profile/assignments.php:61
 msgid "No assignments at this time"
@@ -19825,37 +19825,37 @@ msgstr "Прогрес курсу"
 #: themes/ld30/templates/shortcodes/profile/course-progress.php:22
 msgctxt "Percentage of course completion"
 msgid "%s%% Complete"
-msgstr ""
+msgstr "%s%% Завершено"
 
 #: themes/ld30/templates/shortcodes/profile/quiz-row.php:134
 msgid "Essays"
-msgstr ""
+msgstr "Есе"
 
 #. translators: placeholder: search term.
 #: themes/ld30/templates/shortcodes/profile/search-results.php:12
 msgctxt "placeholder: search term"
 msgid "You searched for \"%s\""
-msgstr ""
+msgstr "Ви шукали \"%s\""
 
 #: themes/ld30/templates/shortcodes/profile/search.php:18
 msgid "close"
-msgstr ""
+msgstr "закрити"
 
 #. translators: Profile Search Courses
 #: themes/ld30/templates/shortcodes/profile/search.php:24
 msgctxt "Profile Search Courses"
 msgid "Search Your %s"
-msgstr ""
+msgstr "Шукати ваші курси"
 
 #. translators: Profile Course Label
 #: themes/ld30/templates/shortcodes/profile/search.php:37
 msgctxt "Profile Course Label"
 msgid "%s Name"
-msgstr ""
+msgstr "Назва курсу"
 
 #: themes/ld30/templates/shortcodes/profile/search.php:44
 msgid "reset"
-msgstr ""
+msgstr "скинути"
 
 #. translators: placeholder: Courses.
 #: themes/ld30/templates/shortcodes/user-status.php:25
@@ -19863,7 +19863,7 @@ msgstr ""
 #: includes/gutenberg/blocks/ld-course-info/index.js:172
 msgctxt "placeholder: Courses"
 msgid "Registered %s"
-msgstr ""
+msgstr "Зареєстровані курси"
 
 #. translators: User Status Course Progress
 #: themes/ld30/templates/shortcodes/user-status/course-row.php:57
@@ -19881,7 +19881,7 @@ msgstr "%1$d/%2$d кроків"
 #: themes/ld30/templates/shortcodes/user-status/course-row.php:64
 msgctxt "User Status Course Since"
 msgid "Since %s"
-msgstr ""
+msgstr "З %s"
 
 #: themes/ld30/templates/shortcodes/user_groups_shortcode.php:27
 msgid "Group Leader"
@@ -19895,7 +19895,7 @@ msgstr "Призначені групи"
 #: themes/ld30/templates/widgets/course-navigation.php:64
 msgctxt "Course Navigation Home Label"
 msgid "%s Home"
-msgstr ""
+msgstr "%s домівка"
 
 #: themes/ld30/templates/widgets/course-navigation.php:98
 #: themes/legacy/templates/course_navigation_admin.php:375
@@ -19909,7 +19909,7 @@ msgstr "Розгорнути урок"
 
 #: themes/legacy/includes/class-ld-themes-register.php:20
 msgid "Legacy"
-msgstr ""
+msgstr "Застарілий"
 
 #. translators: Course Status Label.
 #: themes/legacy/templates/course.php:47
@@ -19919,17 +19919,17 @@ msgstr "%s Статус:"
 
 #: themes/legacy/templates/course_details_admin.php:28
 msgid "Set Enrolled Date:"
-msgstr ""
+msgstr "Встановити дату реєстрації:"
 
 #: themes/legacy/templates/course_details_admin.php:29
 msgid "Edit date"
-msgstr ""
+msgstr "Редагувати дату"
 
 #. translators: placeholder: Course.
 #: themes/legacy/templates/course_info_shortcode.php:84
 msgctxt "placeholder: Course"
 msgid "Extra %s points"
-msgstr ""
+msgstr "Додаткові бали курсу"
 
 #. translators: placeholder: Course.
 #: themes/legacy/templates/course_info_shortcode.php:97
@@ -19941,17 +19941,17 @@ msgstr "Деталі прогресу курсу:"
 #: themes/legacy/templates/course_info_shortcode.php:171
 msgctxt "placeholder: quizzes"
 msgid "You have taken the following %s:"
-msgstr ""
+msgstr "Ви обрали наступні вікторини:"
 
 #. translators: placeholder: quiz.
 #: themes/legacy/templates/course_info_shortcode.php:179
 msgctxt "placeholder: quiz"
 msgid "Are you sure that you want to remove this %s item?"
-msgstr ""
+msgstr "Ви впевнені, що хочете видалили цю вікторину?"
 
 #: themes/legacy/templates/course_list_template.php:22
 msgid "Read more."
-msgstr ""
+msgstr "Читати далі."
 
 #: themes/legacy/templates/course_navigation_admin.php:100
 #: themes/legacy/templates/course_navigation_admin.php:134
@@ -19979,7 +19979,7 @@ msgstr ""
 #: themes/legacy/templates/course_navigation_switcher_admin.php:70
 msgctxt "placeholder: Course"
 msgid "Select a %s"
-msgstr ""
+msgstr "Оберіть курс"
 
 #. translators: placeholder: Quiz.
 #: themes/legacy/templates/course_navigation_switcher_admin.php:80
@@ -19991,27 +19991,27 @@ msgstr ""
 #: themes/legacy/templates/course_navigation_switcher_admin.php:95
 msgctxt "placeholder: Course"
 msgid "Primary %s"
-msgstr ""
+msgstr "Основний курс"
 
 #. translators: placeholder: Courses.
 #: themes/legacy/templates/course_navigation_switcher_admin.php:104
 msgctxt "placeholder: Courses"
 msgid "Shared %s"
-msgstr ""
+msgstr "Поширені курси"
 
 #. translators: placeholder: Course.
 #: themes/legacy/templates/course_navigation_switcher_admin.php:149
 msgctxt "placeholder: Course"
 msgid "Set Primary %s"
-msgstr ""
+msgstr "Встановити основний курс"
 
 #: themes/legacy/templates/course_progress_rows.php:25
 msgid "Expired"
-msgstr ""
+msgstr "Завершено"
 
 #: themes/legacy/templates/course_progress_rows.php:27
 msgid "Status:"
-msgstr ""
+msgstr "Статус:"
 
 #. translators: placeholders: Course steps completed, Course steps total.
 #: themes/legacy/templates/course_progress_rows.php:53
@@ -20057,13 +20057,13 @@ msgstr ""
 #: themes/legacy/templates/course_progress_rows.php:153
 msgctxt "placeholder: Course"
 msgid "%s All Complete"
-msgstr ""
+msgstr "Усі курси завершено"
 
 #. translators: placeholder: Course.
 #: themes/legacy/templates/learndash_course_lesson_not_available.php:36
 msgctxt "placeholder: Course"
 msgid "Return to %s Overview"
-msgstr ""
+msgstr "Повернутися до огляду курсу"
 
 #. translators: placeholders: (1) will be Course. (2) course_access_points. (3) user_course_points.
 #: themes/legacy/templates/learndash_course_points_access_message.php:26
@@ -20079,31 +20079,31 @@ msgstr ""
 #: themes/legacy/templates/learndash_course_points_user_message.php:27
 msgctxt "placeholder: Course"
 msgid "Earned %s Points:"
-msgstr ""
+msgstr "Набрані бали курсу:"
 
 #: themes/legacy/templates/learndash_lesson_assignment_uploads_list.php:45
 msgid "Files you have uploaded"
-msgstr ""
+msgstr "Файлі, які ви завантажили"
 
 #: themes/legacy/templates/learndash_lesson_assignment_uploads_list.php:54
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #. translators: placeholder: comments count.
 #: themes/legacy/templates/learndash_lesson_assignment_uploads_list.php:78
 msgctxt "placeholder: commentd count"
 msgid "Comments (%d)"
-msgstr ""
+msgstr "Коментарі (%d)"
 
 #. translators: placeholder: comma list of file extentions.
 #: themes/legacy/templates/learndash_lesson_assignment_upload_form.php:36
 msgctxt "placeholder: comma list of file extentions"
 msgid "Allowed file types: %s"
-msgstr ""
+msgstr "Дозволені типи файлів: %s"
 
 #: themes/legacy/templates/learndash_pager.php:106
 msgid "page"
-msgstr ""
+msgstr "сторінка"
 
 #. translators: placeholder: Quiz URL.
 #: themes/legacy/templates/lesson.php:43
@@ -20145,7 +20145,7 @@ msgstr "Огляд прогресу курсу"
 #: themes/legacy/templates/profile.php:159
 msgctxt "placeholder: percent complete"
 msgid "%s%% Complete"
-msgstr ""
+msgstr "%s%% завершено"
 
 #. translators: placeholder: topic URL.
 #: themes/legacy/templates/quiz.php:50 themes/legacy/templates/topic.php:92
@@ -20181,28 +20181,28 @@ msgstr ""
 #: themes/legacy/templates/quiz/partials/show_quiz_check_page_box.php:58
 #: themes/legacy/templates/quiz/partials/show_quiz_info_page_box.php:17
 msgid "Information"
-msgstr ""
+msgstr "Інформація"
 
 #: themes/legacy/templates/quiz/partials/show_quiz_form_box.php:17
 #: themes/legacy/templates/quiz/partials/show_quiz_form_box.php:116
 msgid "You must fill out this field."
-msgstr ""
+msgstr "Потрібно заповнити це поле."
 
 #: themes/legacy/templates/quiz/partials/show_quiz_form_box.php:20
 msgid "You must specify a number."
-msgstr ""
+msgstr "Потрібно вказати число."
 
 #: themes/legacy/templates/quiz/partials/show_quiz_form_box.php:21
 msgid "You must specify a text."
-msgstr ""
+msgstr "Потрібно ввести текст."
 
 #: themes/legacy/templates/quiz/partials/show_quiz_form_box.php:22
 msgid "You must specify an email address."
-msgstr ""
+msgstr "Потрібно вказати адресу електронної пошти"
 
 #: themes/legacy/templates/quiz/partials/show_quiz_form_box.php:23
 msgid "You must specify a date."
-msgstr ""
+msgstr "Потрібно вказати дату."
 
 #. translators: placeholder: Quiz label.
 #: themes/legacy/templates/quiz/partials/show_quiz_load_box.php:21
@@ -20231,31 +20231,31 @@ msgstr ""
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:73
 msgctxt "placeholder: question number, questions total"
 msgid "Question %1$s of %2$s"
-msgstr ""
+msgstr "Запитання %1$s з %2$s"
 
 #. translators: placeholder: total quiz points.
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:111
 msgctxt "placeholder: total quiz points"
 msgid "%s point(s)"
-msgstr ""
+msgstr "%s бали(-ів)"
 
 #. translators: placeholder: Quiz Category.
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:132
 msgctxt "placeholder: Quiz Category"
 msgid "Category: %s"
-msgstr ""
+msgstr "Категорія: %s"
 
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:412
 msgid "Type your response here"
-msgstr ""
+msgstr "Введіть тут вашу відповідь"
 
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:424
 msgid "Upload your answer to this question."
-msgstr ""
+msgstr "Завантажте свою відповідь на запитання."
 
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:437
 msgid "Essay type not found"
-msgstr ""
+msgstr "Тип есе не знайдено"
 
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:449
 msgid ""
@@ -20280,17 +20280,17 @@ msgstr ""
 
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:694
 msgid "Check"
-msgstr ""
+msgstr "Перевірити"
 
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:704
 msgid "Next"
-msgstr ""
+msgstr "Наступна"
 
 #. translators: placeholder: page number
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:722
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:726
 msgid "Page %d"
-msgstr ""
+msgstr "Сторінка %d"
 
 #. translators: placeholder: Quiz.
 #: themes/legacy/templates/quiz/partials/show_quiz_questions_box.php:738
@@ -20302,49 +20302,49 @@ msgstr ""
 #: themes/legacy/templates/quiz/partials/show_quiz_result_box.php:30
 msgctxt "placeholder: Quiz"
 msgid "%s complete. Results are being recorded."
-msgstr ""
+msgstr "Вікторину завершено. Збереження результатів."
 
 #. translators: placeholder: correct answer, question count.
 #: themes/legacy/templates/quiz/partials/show_quiz_result_box.php:56
 msgctxt "placeholder: correct answer, question count"
 msgid "%1$s of %2$s questions answered correctly"
-msgstr ""
+msgstr "На %1$s з %2$s запитань дана правильна відповідь"
 
 #. translators: placeholder: quiz time.
 #: themes/legacy/templates/quiz/partials/show_quiz_result_box.php:74
 msgctxt "placeholder: quiz time."
 msgid "Your time: %s"
-msgstr ""
+msgstr "Ваш час: %s"
 
 #: themes/legacy/templates/quiz/partials/show_quiz_result_box.php:91
 msgid "Time has elapsed"
-msgstr ""
+msgstr "Час вичерпано"
 
 #. translators: placeholder: points earned, points total.
 #: themes/legacy/templates/quiz/partials/show_quiz_result_box.php:110
 msgctxt "placeholder: points earned, points total"
 msgid "You have reached %1$s of %2$s point(s), (%3$s)"
-msgstr ""
+msgstr "Ви отримали 1$s з %2$s бали(-ів), (%3$s)"
 
 #. translators: placeholder: points earned, points total, points percentage
 #: themes/legacy/templates/quiz/partials/show_quiz_result_box.php:126
 msgctxt "placeholder: points earned, points total, points percentage"
 msgid "Earned Point(s): %1$s of %2$s, (%3$s)"
-msgstr ""
+msgstr "Отримані бали: %1$s з %2$s, (%3$s)"
 
 #. translators: placeholder: number of essays, possible points.
 #: themes/legacy/templates/quiz/partials/show_quiz_result_box.php:141
 msgctxt "placeholder: number of essays, possible points"
 msgid "%1$s Essay(s) Pending (Possible Point(s): %2$s)"
-msgstr ""
+msgstr "%1$s есе очікують (ймовірні бали: %2$s)"
 
 #: themes/legacy/templates/quiz/partials/show_quiz_result_box.php:173
 msgid "Average score"
-msgstr ""
+msgstr "Середній бал"
 
 #: themes/legacy/templates/quiz/partials/show_quiz_result_box.php:193
 msgid "Your score"
-msgstr ""
+msgstr "Ваш бал"
 
 #. translators: Restart Quiz Button Label.
 #: themes/legacy/templates/quiz/partials/show_quiz_result_box.php:305
